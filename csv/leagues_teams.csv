@@ -1,0 +1,608 @@
+league,team
+Premier League,Liverpool_F.C.
+Premier League,Manchester_City_F.C.
+Premier League,Leicester_City_F.C.
+Premier League,Crystal_Palace_F.C.
+Premier League,Arsenal_F.C.
+Premier League,Everton_F.C.
+Premier League,West_Ham_United_F.C.
+Premier League,Manchester_United_F.C.
+Premier League,Tottenham_Hotspur_F.C.
+Premier League,Sheffield_United_F.C.
+Premier League,Chelsea_F.C.
+Premier League,Burnley_F.C.
+Premier League,Southampton_F.C.
+Premier League,Newcastle_United_F.C.
+Premier League,A.F.C._Bournemouth
+Premier League,Brighton_%26_Hove_Albion_F.C.
+Premier League,Wolverhampton_Wanderers_F.C.
+Premier League,Aston_Villa_F.C.
+Premier League,Norwich_City_F.C.
+Premier League,Watford_F.C.
+EFL Championship,Barnsley_F.C.
+EFL Championship,Birmingham_City_F.C.
+EFL Championship,Blackburn_Rovers_F.C.
+EFL Championship,Brentford_F.C.
+EFL Championship,Bristol_City_F.C.
+EFL Championship,Cardiff_City_F.C.
+EFL Championship,Charlton_Athletic_F.C.
+EFL Championship,Derby_County_F.C.
+EFL Championship,Fulham_F.C.
+EFL Championship,Huddersfield_Town_F.C.
+EFL Championship,Hull_City_A.F.C.
+EFL Championship,Leeds_United_F.C.
+EFL Championship,Luton_Town_F.C.
+EFL Championship,Middlesbrough_F.C.
+EFL Championship,Millwall_F.C.
+EFL Championship,Nottingham_Forest_F.C.
+EFL Championship,Preston_North_End_F.C.
+EFL Championship,Queens_Park_Rangers_F.C.
+EFL Championship,Reading_F.C.
+EFL Championship,Sheffield_Wednesday_F.C.
+EFL Championship,Stoke_City_F.C.
+EFL Championship,Swansea_City_A.F.C.
+EFL Championship,West_Bromwich_Albion_F.C.
+EFL Championship,Wigan_Athletic_F.C.
+EFL League One,Ipswich_Town_F.C.
+EFL League One,Lincoln_City_F.C.
+EFL League One,Blackpool_F.C.
+EFL League One,Coventry_City_F.C.
+EFL League One,Wycombe_Wanderers_F.C.
+EFL League One,Sunderland_A.F.C.
+EFL League One,Peterborough_United_F.C.
+EFL League One,Burton_Albion_F.C.
+EFL League One,Fleetwood_Town_F.C.
+EFL League One,Rochdale_A.F.C.
+EFL League One,Doncaster_Rovers_F.C.
+EFL League One,Shrewsbury_Town_F.C.
+EFL League One,Rotherham_United_F.C.
+EFL League One,Bristol_Rovers_F.C.
+EFL League One,Milton_Keynes_Dons_F.C.
+EFL League One,Gillingham_F.C.
+EFL League One,Portsmouth_F.C.
+EFL League One,Oxford_United_F.C.
+EFL League One,Tranmere_Rovers_F.C.
+EFL League One,Accrington_Stanley_F.C.
+EFL League One,A.F.C._Wimbledon
+EFL League One,Southend_United_F.C.
+EFL League One,Bolton_Wanderers_F.C.
+EFL League One,Bury_F.C.
+EFL League Two,Exeter_City_F.C.
+EFL League Two,Newport_County_A.F.C.
+EFL League Two,Crewe_Alexandra_F.C.
+EFL League Two,Grimsby_Town_F.C.
+EFL League Two,Swindon_Town_F.C.
+EFL League Two,Plymouth_Argyle_F.C.
+EFL League Two,Macclesfield_Town_F.C.
+EFL League Two,Crawley_Town_F.C.
+EFL League Two,Forest_Green_Rovers_F.C.
+EFL League Two,Port_Vale_F.C.
+EFL League Two,Cheltenham_Town_F.C.
+EFL League Two,Bradford_City_A.F.C.
+EFL League Two,Colchester_United_F.C.
+EFL League Two,Cambridge_United_F.C.
+EFL League Two,Leyton_Orient_F.C.
+EFL League Two,Salford_City_F.C.
+EFL League Two,Northampton_Town_F.C.
+EFL League Two,Carlisle_United_F.C.
+EFL League Two,Mansfield_Town_F.C.
+EFL League Two,Morecambe_F.C.
+EFL League Two,Walsall_F.C.
+EFL League Two,Oldham_Athletic_A.F.C.
+EFL League Two,Stevenage_F.C.
+EFL League Two,Scunthorpe_United_F.C.
+La Liga,Atl%C3%A9tico_de_Madrid
+La Liga,Athletic_Bilbao
+La Liga,Sevilla_FC
+La Liga,Levante_UD
+La Liga,Real_Madrid_CF
+La Liga,CA_Osasuna
+La Liga,Deportivo_Alav%C3%A9s
+La Liga,FC_Barcelona
+La Liga,Granada_CF
+La Liga,Valencia_CF
+La Liga,Real_Valladolid
+La Liga,RC_Celta_de_Vigo
+La Liga,Real_Sociedad
+La Liga,RCD_Mallorca
+La Liga,Real_Betis
+La Liga,Villarreal_CF
+La Liga,Getafe_CF
+La Liga,SD_Eibar
+La Liga,RCD_Espanyol
+La Liga,CD_Legan%C3%A9s
+La Liga,Atl%C3%A9tico_Madrid
+Segunda División,Albacete_Balompi%C3%A9
+Segunda División,AD_Alcorc%C3%B3n
+Segunda División,UD_Almer%C3%ADa
+Segunda División,C%C3%A1diz_CF
+Segunda División,Deportivo_de_La_Coru%C3%B1a
+Segunda División,Elche_CF
+Segunda División,Extremadura_UD
+Segunda División,CF_Fuenlabrada
+Segunda División,Girona_FC
+Segunda División,SD_Huesca
+Segunda División,UD_Las_Palmas
+Segunda División,CD_Lugo
+Segunda División,M%C3%A1laga_CF
+Segunda División,CD_Mirand%C3%A9s
+Segunda División,CD_Numancia
+Segunda División,Real_Oviedo
+Segunda División,SD_Ponferradina
+Segunda División,Racing_de_Santander
+Segunda División,Rayo_Vallecano
+Segunda División,Sporting_de_Gij%C3%B3n
+Segunda División,CD_Tenerife
+Segunda División,Real_Zaragoza
+Ligue 1,Amiens_SC
+Ligue 1,Angers_SCO
+Ligue 1,FC_Girondins_de_Bordeaux
+Ligue 1,Stade_Brestois
+Ligue 1,Dijon_FCO
+Ligue 1,Lille_OSC
+Ligue 1,Olympique_Lyonnais
+Ligue 1,Olympique_de_Marseille
+Ligue 1,FC_Metz
+Ligue 1,AS_Monaco_FC
+Ligue 1,Montpellier_HSC
+Ligue 1,FC_Nantes
+Ligue 1,OGC_Nice
+Ligue 1,N%C3%AEmes_Olympique
+Ligue 1,Paris_Saint-Germain_F.C.
+Ligue 1,Stade_de_Reims
+Ligue 1,Stade_Rennais_F.C.
+Ligue 1,AS_Saint-%C3%89tienne
+Ligue 1,RC_Strasbourg_Alsace
+Ligue 1,Toulouse_FC
+Ligue 2,Le_Havre_AC
+Ligue 2,FC_Lorient
+Ligue 2,Valenciennes_FC
+Ligue 2,FC_Chambly
+Ligue 2,Clermont_Foot
+Ligue 2,Chamois_Niortais_F.C.
+Ligue 2,Troyes_AC
+Ligue 2,AC_Ajaccio
+Ligue 2,Rodez_AF
+Ligue 2,FC_Sochaux-Montb%C3%A9liard
+Ligue 2,AJ_Auxerre
+Ligue 2,RC_Lens
+Ligue 2,En_Avant_de_Guingamp
+Ligue 2,AS_Nancy
+Ligue 2,Stade_Malherbe_Caen
+Ligue 2,Grenoble_Foot_38
+Ligue 2,Le_Mans_FC
+Ligue 2,US_Orl%C3%A9ans
+Ligue 2,LB_Ch%C3%A2teauroux
+Ligue 2,Paris_FC
+Bundesliga,RB_Leipzig
+Bundesliga,FC_Bayern_Munich
+Bundesliga,VfL_Wolfsburg
+Bundesliga,Bayer_04_Leverkusen
+Bundesliga,Borussia_Dortmund
+Bundesliga,SC_Freiburg
+Bundesliga,Eintracht_Frankfurt
+Bundesliga,Borussia_M%C3%B6nchengladbach
+Bundesliga,TSG_1899_Hoffenheim
+Bundesliga,FC_Schalke_04
+Bundesliga,1._FC_Union_Berlin
+Bundesliga,Fortuna_D%C3%BCsseldorf
+Bundesliga,SV_Werder_Bremen
+Bundesliga,1._FC_K%C3%B6ln
+Bundesliga,SC_Paderborn_07
+Bundesliga,FC_Augsburg
+Bundesliga,Hertha_BSC
+Bundesliga,1._FSV_Mainz_05
+2. Bundesliga,Hamburger_SV
+2. Bundesliga,VfB_Stuttgart
+2. Bundesliga,SV_Sandhausen
+2. Bundesliga,VfL_Osnabr%C3%BCck
+2. Bundesliga,Arminia_Bielefeld
+2. Bundesliga,SpVgg_Greuther_F%C3%BCrth
+2. Bundesliga,FC_Erzgebirge_Aue
+2. Bundesliga,SSV_Jahn_Regensburg
+2. Bundesliga,1._FC_N%C3%BCrnberg
+2. Bundesliga,Karlsruher_SC
+2. Bundesliga,1._FC_Heidenheim
+2. Bundesliga,Hannover_96
+2. Bundesliga,FC_St._Pauli
+2. Bundesliga,Dynamo_Dresden
+2. Bundesliga,Holstein_Kiel
+2. Bundesliga,SV_Darmstadt_98
+2. Bundesliga,VfL_Bochum
+2. Bundesliga,SV_Wehen_Wiesbaden
+Serie A,Atalanta_B.C.
+Serie A,Bologna_F.C._1909
+Serie A,Brescia_Calcio
+Serie A,Cagliari_Calcio
+Serie A,ACF_Fiorentina
+Serie A,Genoa_C.F.C.
+Serie A,Hellas_Verona_F.C.
+Serie A,Inter_Milan
+Serie A,Juventus_F.C.
+Serie A,S.S._Lazio
+Serie A,U.S._Lecce
+Serie A,A.C._Milan
+Serie A,S.S.C._Napoli
+Serie A,Parma_Calcio_1913
+Serie A,A.S._Roma
+Serie A,U.C._Sampdoria
+Serie A,U.S._Sassuolo
+Serie A,S.P.A.L.
+Serie A,Torino_F.C.
+Serie A,Udinese_Calcio
+Serie B,Ascoli_Calcio_1898_F.C.
+Serie B,Benevento_Calcio
+Serie B,A.C._ChievoVerona
+Serie B,A.S._Cittadella
+Serie B,Cosenza_Calcio
+Serie B,U.S._Cremonese
+Serie B,F.C._Crotone
+Serie B,Empoli_F.C.
+Serie B,Frosinone_Calcio
+Serie B,S.S._Juve_Stabia
+Serie B,A.S._Livorno_Calcio
+Serie B,A.C._Perugia_Calcio
+Serie B,Delfino_Pescara_1936
+Serie B,A.C._Pisa_1909
+Serie B,Pordenone_Calcio
+Serie B,U.S._Salernitana_1919
+Serie B,Spezia_Calcio
+Serie B,Trapani_Calcio
+Serie B,Venezia_F.C.
+Serie B,Virtus_Entella
+Primeira Liga,Belenenses_SAD
+Primeira Liga,S.L._Benfica
+Primeira Liga,Boavista_F.C.
+Primeira Liga,S.C._Braga
+Primeira Liga,C.D._Aves
+Primeira Liga,F.C._Famalic%C3%A3o
+Primeira Liga,Gil_Vicente_F.C.
+Primeira Liga,C.S._Mar%C3%ADtimo
+Primeira Liga,Moreirense_F.C.
+Primeira Liga,F.C._Pa%C3%A7os_de_Ferreira
+Primeira Liga,Portimonense_S.C.
+Primeira Liga,FC_Porto
+Primeira Liga,Rio_Ave_F.C.
+Primeira Liga,C.D._Santa_Clara
+Primeira Liga,Sporting_CP
+Primeira Liga,C.D._Tondela
+Primeira Liga,Vit%C3%B3ria_S.C.
+Primeira Liga,Vit%C3%B3ria_F.C.
+Russian Premier League,FC_Krasnodar
+Russian Premier League,FC_Spartak_Moscow
+Russian Premier League,FC_Rostov
+Russian Premier League,FC_Lokomotiv_Moscow
+Russian Premier League,FC_Zenit_Saint_Petersburg
+Russian Premier League,PFC_CSKA_Moscow
+Russian Premier League,FC_Arsenal_Tula
+Russian Premier League,FC_Ural_Yekaterinburg
+Russian Premier League,FC_Rubin_Kazan
+Russian Premier League,FC_Ufa
+Russian Premier League,FC_Dynamo_Moscow
+Russian Premier League,FC_Akhmat_Grozny
+Russian Premier League,PFC_Krylia_Sovetov_Samara
+Russian Premier League,FC_Tambov
+Russian Premier League,PFC_Sochi
+Russian Premier League,FC_Orenburg
+Eredivisie,SBV_Vitesse
+Eredivisie,AFC_Ajax
+Eredivisie,PSV_Eindhoven
+Eredivisie,FC_Twente
+Eredivisie,Willem_II_(football_club)
+Eredivisie,Sparta_Rotterdam
+Eredivisie,AZ_Alkmaar
+Eredivisie,FC_Utrecht
+Eredivisie,Feyenoord
+Eredivisie,SC_Heerenveen
+Eredivisie,ADO_Den_Haag
+Eredivisie,VVV-Venlo
+Eredivisie,Heracles_Almelo
+Eredivisie,FC_Groningen
+Eredivisie,PEC_Zwolle
+Eredivisie,FC_Emmen
+Eredivisie,Fortuna_Sittard
+Eredivisie,RKC_Waalwijk
+Belgian First Division A,Standard_Li%C3%A8ge
+Belgian First Division A,Club_Brugge_KV
+Belgian First Division A,KV_Mechelen
+Belgian First Division A,Royal_Excel_Mouscron
+Belgian First Division A,K.A.A._Gent
+Belgian First Division A,K.R.C._Genk
+Belgian First Division A,K.V._Oostende
+Belgian First Division A,S.V._Zulte_Waregem
+Belgian First Division A,Royal_Antwerp_F.C.
+Belgian First Division A,R._Charleroi_S.C.
+Belgian First Division A,K.V._Kortrijk
+Belgian First Division A,Sint-Truidense_V.V.
+Belgian First Division A,R.S.C._Anderlecht
+Belgian First Division A,Cercle_Brugge_K.S.V.
+Belgian First Division A,K.A.S._Eupen
+Belgian First Division A,Waasland-Beveren
+Süper Lig,Alanyaspor
+Süper Lig,Fenerbah%C3%A7e_S.K._(football)
+Süper Lig,Denizlispor
+Süper Lig,%C3%87aykur_Rizespor
+Süper Lig,Trabzonspor
+Süper Lig,MKE_Ankarag%C3%BCc%C3%BC
+Süper Lig,Sivasspor
+Süper Lig,Be%C5%9Fikta%C5%9F_J.K.
+Süper Lig,Galatasaray_S.K._(football)
+Süper Lig,Antalyaspor
+Süper Lig,Gazi%C5%9Fehir_Gaziantep_F.K.
+Süper Lig,Yeni_Malatyaspor
+Süper Lig,Konyaspor
+Süper Lig,%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_F.K.
+Süper Lig,Kayserispor
+Süper Lig,Kas%C4%B1mpa%C5%9Fa_S.K.
+Süper Lig,G%C3%B6ztepe_S.K.
+Süper Lig,Gen%C3%A7lerbirli%C4%9Fi_S.K.
+Scottish Premiership,Celtic_F.C.
+Scottish Premiership,Rangers_F.C.
+Scottish Premiership,Livingston_F.C.
+Scottish Premiership,Aberdeen_F.C.
+Scottish Premiership,Motherwell_F.C.
+Scottish Premiership,Kilmarnock_F.C.
+Scottish Premiership,Hamilton_Academical_F.C.
+Scottish Premiership,Ross_County_F.C.
+Scottish Premiership,Hibernian_F.C.
+Scottish Premiership,St_Mirren_F.C.
+Scottish Premiership,Heart_of_Midlothian_F.C.
+Scottish Premiership,St_Johnstone_F.C.
+Swiss Super League,BSC_Young_Boys
+Swiss Super League,FC_Basel
+Swiss Super League,FC_Sion
+Swiss Super League,FC_Thun
+Swiss Super League,Servette_FC
+Swiss Super League,FC_Lugano
+Swiss Super League,FC_Luzern
+Swiss Super League,FC_St._Gallen
+Swiss Super League,Neuch%C3%A2tel_Xamax_FCS
+Swiss Super League,FC_Z%C3%BCrich
+Superleague Greece,PAOK_FC
+Superleague Greece,Xanthi_F.C.
+Superleague Greece,Volos_FC
+Superleague Greece,Olympiacos_F.C.
+Superleague Greece,OFI_Crete_F.C.
+Superleague Greece,AEK_Athens_F.C.
+Superleague Greece,Atromitos_F.C.
+Superleague Greece,PAS_Lamia_1964
+Superleague Greece,Athlitiki_Enosi_Larissa_F.C.
+Superleague Greece,Aris_Thessaloniki_F.C.
+Superleague Greece,Panathinaikos_F.C.
+Superleague Greece,Asteras_Tripoli_F.C.
+Superleague Greece,Panetolikos_F.C.
+Superleague Greece,Panionios_F.C.
+Superleague Greece,Asteras_Tripolis_F.C.
+Superleague Greece,Lamia_F.C.
+Danish Superliga,FC_Midtjylland
+Danish Superliga,F.C._Copenhagen
+Danish Superliga,AaB_Fodbold
+Danish Superliga,FC_Nordsj%C3%A6lland
+Danish Superliga,Br%C3%B8ndby_IF
+Danish Superliga,Aarhus_Gymnastikforening
+Danish Superliga,Odense_Boldklub
+Danish Superliga,S%C3%B8nderjyskE_Fodbold
+Danish Superliga,Lyngby_Boldklub
+Danish Superliga,AC_Horsens
+Danish Superliga,Randers_FC
+Danish Superliga,Hobro_IK
+Danish Superliga,Esbjerg_FB
+Danish Superliga,Silkeborg_IF
+Ukrainian Premier League,FC_Shakhtar_Donetsk
+Ukrainian Premier League,FC_Desna_Chernihiv
+Ukrainian Premier League,FC_Zorya_Luhansk
+Ukrainian Premier League,FC_Oleksandriya
+Ukrainian Premier League,FC_Dynamo_Kyiv
+Ukrainian Premier League,SC_Dnipro-1
+Ukrainian Premier League,FC_Vorskla_Poltava
+Ukrainian Premier League,FC_Kolos_Kovalivka
+Ukrainian Premier League,FC_Mariupol
+Ukrainian Premier League,FC_Lviv
+Ukrainian Premier League,FC_Karpaty_Lviv
+Ukrainian Premier League,FC_Olimpik_Donetsk
+Argentine Primera División,San_Lorenzo_de_Almagro
+Argentine Primera División,Boca_Juniors
+Argentine Primera División,Talleres_de_C%C3%B3rdoba
+Argentine Primera División,Club_Atl%C3%A9tico_Lan%C3%BAs
+Argentine Primera División,Club_Atl%C3%A9tico_Patronato
+Argentine Primera División,Newell%27s_Old_Boys
+Argentine Primera División,Arsenal_de_Sarand%C3%AD
+Argentine Primera División,Rosario_Central
+Argentine Primera División,Argentinos_Juniors
+Argentine Primera División,Club_Atl%C3%A9tico_River_Plate
+Argentine Primera División,Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield
+Argentine Primera División,Estudiantes_de_La_Plata
+Argentine Primera División,Club_Atl%C3%A9tico_Independiente
+Argentine Primera División,Racing_Club_de_Avellaneda
+Argentine Primera División,Atl%C3%A9tico_Tucum%C3%A1n
+Argentine Primera División,Club_Atl%C3%A9tico_Hurac%C3%A1n
+Argentine Primera División,Central_C%C3%B3rdoba_de_Santiago_del_Estero
+Argentine Primera División,Aldosivi
+Argentine Primera División,Club_Atl%C3%A9tico_Banfield
+Argentine Primera División,Uni%C3%B3n_de_Santa_Fe
+Argentine Primera División,Club_Atl%C3%A9tico_Col%C3%B3n
+Argentine Primera División,Defensa_y_Justicia
+Argentine Primera División,Godoy_Cruz_Antonio_Tomba
+Argentine Primera División,Club_de_Gimnasia_y_Esgrima_La_Plata
+Liga MX season,Quer%C3%A9taro_F.C.
+Liga MX season,Santos_Laguna
+Liga MX season,Club_Am%C3%A9rica
+Liga MX season,Club_Necaxa
+Liga MX season,Tigres_UANL
+Liga MX season,Club_Atlas
+Liga MX season,Club_Le%C3%B3n
+Liga MX season,C.F._Monterrey
+Liga MX season,Club_Universidad_Nacional
+Liga MX season,Atl%C3%A9tico_San_Luis
+Liga MX season,Cruz_Azul
+Liga MX season,Club_Tijuana
+Liga MX season,Monarcas_Morelia
+Liga MX season,C.F._Pachuca
+Liga MX season,C.D._Guadalajara
+Liga MX season,FC_Ju%C3%A1rez
+Liga MX season,Club_Puebla
+Liga MX season,Deportivo_Toluca_F.C.
+Liga MX season,Tiburones_Rojos_de_Veracruz
+A-League,Adelaide_United_FC
+A-League,Brisbane_Roar_FC
+A-League,Central_Coast_Mariners_FC
+A-League,Melbourne_City_FC
+A-League,Melbourne_Victory_FC
+A-League,Newcastle_Jets_FC
+A-League,Perth_Glory_FC
+A-League,Sydney_FC
+A-League,Wellington_Phoenix_FC
+A-League,Western_Sydney_Wanderers_FC
+A-League,Western_United_FC
+Major League Soccer season,Los_Angeles_FC
+Major League Soccer season,Philadelphia_Union
+Major League Soccer season,New_York_City_FC
+Major League Soccer season,Atlanta_United_FC
+Major League Soccer season,Seattle_Sounders_FC
+Major League Soccer season,Minnesota_United_FC
+Major League Soccer season,San_Jose_Earthquakes
+Major League Soccer season,Real_Salt_Lake
+Major League Soccer season,FC_Dallas
+Major League Soccer season,LA_Galaxy
+Major League Soccer season,D.C._United
+Major League Soccer season,New_York_Red_Bulls
+Major League Soccer season,Portland_Timbers
+Major League Soccer season,New_England_Revolution
+Major League Soccer season,Toronto_FC
+Major League Soccer season,Montreal_Impact
+Major League Soccer season,Sporting_Kansas_City
+Major League Soccer season,Orlando_City_SC
+Major League Soccer season,Chicago_Fire_Soccer_Club
+Major League Soccer season,Houston_Dynamo
+Major League Soccer season,Columbus_Crew_SC
+Major League Soccer season,Colorado_Rapids
+Major League Soccer season,Vancouver_Whitecaps_FC
+Major League Soccer season,FC_Cincinnati
+Campeonato Brasileiro Série A,Clube_de_Regatas_do_Flamengo
+Campeonato Brasileiro Série A,Santos_FC
+Campeonato Brasileiro Série A,Sport_Club_Corinthians_Paulista
+Campeonato Brasileiro Série A,S%C3%A3o_Paulo_FC
+Campeonato Brasileiro Série A,Sociedade_Esportiva_Palmeiras
+Campeonato Brasileiro Série A,Sport_Club_Internacional
+Campeonato Brasileiro Série A,Clube_Atl%C3%A9tico_Mineiro
+Campeonato Brasileiro Série A,Esporte_Clube_Bahia
+Campeonato Brasileiro Série A,Club_Athletico_Paranaense
+Campeonato Brasileiro Série A,Botafogo_de_Futebol_e_Regatas
+Campeonato Brasileiro Série A,Gr%C3%AAmio_Foot-Ball_Porto_Alegrense
+Campeonato Brasileiro Série A,Fortaleza_Esporte_Clube
+Campeonato Brasileiro Série A,Goi%C3%A1s_Esporte_Clube
+Campeonato Brasileiro Série A,Cear%C3%A1_Sporting_Club
+Campeonato Brasileiro Série A,CR_Vasco_da_Gama
+Campeonato Brasileiro Série A,Cruzeiro_Esporte_Clube
+Campeonato Brasileiro Série A,Associa%C3%A7%C3%A3o_Chapecoense_de_Futebol
+Campeonato Brasileiro Série A,Fluminense_FC
+Campeonato Brasileiro Série A,Centro_Sportivo_Alagoano
+Campeonato Brasileiro Série A,Ava%C3%AD_FC
+League of Ireland Premier Division,Dundalk_F.C.
+League of Ireland Premier Division,Shamrock_Rovers_F.C.
+League of Ireland Premier Division,Bohemian_F.C.
+League of Ireland Premier Division,Derry_City_F.C.
+League of Ireland Premier Division,St_Patrick%27s_Athletic_F.C.
+League of Ireland Premier Division,Sligo_Rovers_F.C.
+League of Ireland Premier Division,Waterford_F.C.
+League of Ireland Premier Division,Cork_City_F.C.
+League of Ireland Premier Division,Finn_Harps_F.C.
+League of Ireland Premier Division,University_College_Dublin_A.F.C.
+Allsvenskan,Djurg%C3%A5rdens_IF_Fotboll
+Allsvenskan,AIK_Fotboll
+Allsvenskan,Malm%C3%B6_FF
+Allsvenskan,BK_H%C3%A4cken
+Allsvenskan,Hammarby_Fotboll
+Allsvenskan,IFK_G%C3%B6teborg
+Allsvenskan,IFK_Norrk%C3%B6ping
+Allsvenskan,%C3%96rebro_SK
+Allsvenskan,IF_Elfsborg
+Allsvenskan,Helsingborgs_IF
+Allsvenskan,%C3%96stersunds_FK
+Allsvenskan,IK_Sirius_Fotboll
+Allsvenskan,Kalmar_FF
+Allsvenskan,Falkenbergs_FF
+Allsvenskan,AFC_Eskilstuna
+Allsvenskan,GIF_Sundsvall
+Eliteserien,Molde_FK
+Eliteserien,Bod%C3%B8/Glimt
+Eliteserien,Odds_BK
+Eliteserien,Rosenborg_BK
+Eliteserien,SK_Brann
+Eliteserien,Kristiansund_BK
+Eliteserien,V%C3%A5lerenga_Fotball
+Eliteserien,Viking_FK
+Eliteserien,FK_Haugesund
+Eliteserien,Lillestr%C3%B8m_SK
+Eliteserien,Troms%C3%B8_IL
+Eliteserien,Stab%C3%A6k_Fotball
+Eliteserien,Mj%C3%B8ndalen_IF
+Eliteserien,Ranheim_Fotball
+Eliteserien,Str%C3%B8msgodset_Toppfotball
+Eliteserien,Sarpsborg_08_FF
+Chilean Primera División,Club_Deportivo_Universidad_Cat%C3%B3lica
+Chilean Primera División,Colo-Colo
+Chilean Primera División,Audax_Italiano
+Chilean Primera División,Uni%C3%B3n_La_Calera
+Chilean Primera División,Coquimbo_Unido
+Chilean Primera División,O%27Higgins_F.C.
+Chilean Primera División,Club_Deportivo_Palestino
+Chilean Primera División,Huachipato
+Chilean Primera División,Curic%C3%B3_Unido
+Chilean Primera División,Uni%C3%B3n_Espa%C3%B1ola
+Chilean Primera División,C.D._Cobresal
+Chilean Primera División,Deportes_Iquique
+Chilean Primera División,Everton_de_Vi%C3%B1a_del_Mar
+Chilean Primera División,Club_Universidad_de_Chile
+Chilean Primera División,C.D._Antofagasta
+Chilean Primera División,C.D._Universidad_de_Concepci%C3%B3n
+J1 League,FC_Tokyo
+J1 League,Kashima_Antlers
+J1 League,Yokohama_F._Marinos
+J1 League,Kawasaki_Frontale
+J1 League,Sanfrecce_Hiroshima
+J1 League,Cerezo_Osaka
+J1 League,Hokkaido_Consadole_Sapporo
+J1 League,Oita_Trinita
+J1 League,Nagoya_Grampus
+J1 League,Shonan_Bellmare
+J1 League,Urawa_Red_Diamonds
+J1 League,Vissel_Kobe
+J1 League,Shimizu_S-Pulse
+J1 League,Gamba_Osaka
+J1 League,Vegalta_Sendai
+J1 League,Sagan_Tosu
+J1 League,Matsumoto_Yamaga_FC
+J1 League,J%C3%BAbilo_Iwata
+Chinese Super League,Guangzhou_Evergrande_Taobao_F.C.
+Chinese Super League,Beijing_Sinobo_Guoan_F.C.
+Chinese Super League,Shanghai_SIPG_F.C.
+Chinese Super League,Shandong_Luneng_Taishan_F.C.
+Chinese Super League,Jiangsu_Suning_F.C.
+Chinese Super League,Wuhan_Zall_F.C.
+Chinese Super League,Dalian_Yifang_F.C.
+Chinese Super League,Chongqing_Dangdai_Lifan_F.C.
+Chinese Super League,Tianjin_TEDA_F.C.
+Chinese Super League,Henan_Jianye_F.C.
+Chinese Super League,Guangzhou_R%26F_F.C.
+Chinese Super League,Shanghai_Greenland_Shenhua_F.C.
+Chinese Super League,Hebei_China_Fortune_F.C.
+Chinese Super League,Tianjin_Tianhai_F.C.
+Chinese Super League,Shenzhen_F.C.
+Chinese Super League,Beijing_Renhe_F.C.
+South African Premier Division,Mamelodi_Sundowns
+South African Premier Division,Orlando_Pirates_F.C.
+South African Premier Division,Bidvest_Wits
+South African Premier Division,Cape_Town_City_F.C._(2016)
+South African Premier Division,Polokwane_City
+South African Premier Division,SuperSport_United
+South African Premier Division,Highlands_Park
+South African Premier Division,Bloemfontein_Celtic
+South African Premier Division,Kaizer_Chiefs
+South African Premier Division,Golden_Arrows
+South African Premier Division,AmaZulu_F.C.
+South African Premier Division,Chippa_United
+South African Premier Division,Black_Leopards
+South African Premier Division,Baroka_F.C.
+South African Premier Division,Maritzburg_United
+South African Premier Division,Free_State_Stars
