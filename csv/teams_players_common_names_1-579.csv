@@ -1,580 +1,580 @@
-team,avg_first_name,avg_middle_name,avg_last_name,avg_name,mode_first_name,mode_middle_name,mode_last_name,mode_name
-Liverpool FC,Joe,,Anderson,Joe Anderson,John,,Jones,John Jones
-Manchester City FC,Joe,,Barnes,Joe Barnes,David,,Smith,David Smith
-Leicester City FC,Jamie,,Alderson,Jamie Alderson,John,,Smith,John Smith
-Crystal Palace FC,John,,Jones,John Jones,John,,Smith,John Smith
-Arsenal FC,Norman,,Jones,Norman Jones,John,,Jones,John Jones
-Everton FC,Tom,,Parkinson,Tom Parkinson,John,,Jones,John Jones
-West Ham United FC,Jamie,,Allen,Jamie Allen,George,,Brown,George Brown
-Manchester United FC,Tom,,Pearson,Tom Pearson,John,,Jones,John Jones
-Tottenham Hotspur FC,Joe,,Jones,Joe Jones,John,,Smith,John Smith
-Sheffield United FC,Jon,,Anderson,Jon Anderson,John,,Smith,John Smith
-Chelsea FC,Jon,,Robertson,Jon Robertson,John,,Smith,John Smith
-Burnley FC,Jon,,Paterson,Jon Paterson,John,,Smith,John Smith
-Southampton FC,Abe,,Pearson,Abe Pearson,George,,Brown,George Brown
-Newcastle United FC,John,,Harbertson,John Harbertson,John,,Smith,John Smith
-AFC Bournemouth,Joe,,Preston,Joe Preston,John,,Smith,John Smith
-Brighton %26 Hove Albion FC,Joe,,Harbertson,Joe Harbertson,Jack,,Smith,Jack Smith
-Wolverhampton Wanderers FC,Joe,,Mason,Joe Mason,George,,Jones,George Jones
-Aston Villa FC,Mark,,Aston,Mark Aston,John,,Evans,John Evans
-Norwich City FC,Marc,,Brindley,Marc Brindley,John,,Smith,John Smith
-Watford FC,Joe,,Aston,Joe Aston,Jimmy,,Smith,Jimmy Smith
-Barnsley FC,Jon,,Pearson,Jon Pearson,John,,Smith,John Smith
-Birmingham City FC,Jae,,Jones,Jae Jones,Jack,,Smith,Jack Smith
-Blackburn Rovers FC,Joe,,Morley,Joe Morley,John,,Jones,John Jones
-Brentford FC,Tom,,Jones,Tom Jones,John,,Smith,John Smith
-Bristol City FC,John,,Paterson,John Paterson,John,,Williams,John Williams
-Cardiff City FC,Barrie,,Jones,Barrie Jones,John,,Jones,John Jones
-Charlton Athletic FC,Dean,,Pearson,Dean Pearson,John,,Smith,John Smith
-Derby County FC,Bob,,Boertien,Bob Boertien,John,,Smith,John Smith
-Fulham FC,Tom,,Pearson,Tom Pearson,John,,Brown,John Brown
-Huddersfield Town AFC,Joe,,Paterson,Joe Paterson,Paul,,Smith,Paul Smith
-Hull City AFC,Tom,,Pearson,Tom Pearson,George,,Smith,George Smith
-Leeds United FC,Tom,,Horton,Tom Horton,David,,Smith,David Smith
-Luton Town FC,Joe,,Pearson,Joe Pearson,John,,Brown,John Brown
-Middlesbrough FC,Josh,,Merson,Josh Merson,John,,Smith,John Smith
-Millwall FC,Joe,,Pearson,Joe Pearson,John,,Smith,John Smith
-Nottingham Forest FC,Joe,,Jones,Joe Jones,John,,Brown,John Brown
-Preston North End FC,Joe,,Emerson,Joe Emerson,John,,Brown,John Brown
-Queens Park Rangers FC,Dean,,Milanese,Dean Milanese,John,,Smith,John Smith
-Reading FC,Joe,,Marsden,Joe Marsden,John,,Smith,John Smith
-Sheffield Wednesday FC,Brian,,Pearson,Brian Pearson,John,,Jones,John Jones
-Stoke City FC,Karl,,Paterson,Karl Paterson,John,,Smith,John Smith
-Swansea City AFC,Joe,,Jones,Joe Jones,John,,Jones,John Jones
-West Bromwich Albion FC,Dean,,Pearson,Dean Pearson,George,,Jones,George Jones
-Wigan Athletic FC,Joe,,Parkinson,Joe Parkinson,John,,Roberts,John Roberts
-Ipswich Town FC,Joe,,Parkinson,Joe Parkinson,David,,Brown,David Brown
-Lincoln City FC,Jamie,,Harbertson,Jamie Harbertson,John,,Smith,John Smith
-Blackpool FC,Joe,,Paterson,Joe Paterson,John,,Jones,John Jones
-Coventry City FC,Dean,,Pearson,Dean Pearson,John,,Smith,John Smith
-Wycombe Wanderers FC,Josh,,Sanderson,Josh Sanderson,Paul,,Thompson,Paul Thompson
-Sunderland AFC,John,,Marston,John Marston,John,,Smith,John Smith
-Peterborough United FC,Jae,,Horton,Jae Horton,David,,Smith,David Smith
-Burton Albion FC,Roy,,Boertien,Roy Boertien,Lee,,Taylor,Lee Taylor
-Fleetwood Town FC,Jamie,,Paterson,Jamie Paterson,Alex,,Brown,Alex Brown
-Rochdale AFC,Dean,,Barnes,Dean Barnes,John,,Jones,John Jones
-Doncaster Rovers FC,Jon,,Jones,Jon Jones,John,,Jones,John Jones
-Shrewsbury Town FC,Joe,,Jones,Joe Jones,John,,Jones,John Jones
-Rotherham United FC,Jon,,Pearson,Jon Pearson,John,,Wilson,John Wilson
-Bristol Rovers FC,Joe,,Jones,Joe Jones,Jack,,Jones,Jack Jones
-Milton Keynes Dons FC,Carl,,Burns,Carl Burns,David,,Smith,David Smith
-Gillingham FC,Joe,,Patterson,Joe Patterson,George,,Smith,George Smith
-Portsmouth FC,Jon,,Merson,Jon Merson,John,,Smith,John Smith
-Oxford United FC,Jamie,,Saunders,Jamie Saunders,John,,Smith,John Smith
-Tranmere Rovers FC,Brian,,Carlson,Brian Carlson,John,,Jones,John Jones
-Accrington Stanley FC,Ian,,Jones,Ian Jones,Paul,,Brown,Paul Brown
-AFC Wimbledon,Charlie,,Jones,Charlie Jones,Mark,,Smith,Mark Smith
-Southend United FC,Dan,,Jones,Dan Jones,John,,Jones,John Jones
-Bolton Wanderers FC,Marc,,Winstanley,Marc Winstanley,John,,Taylor,John Taylor
-Bury FC,Dean,,Pearson,Dean Pearson,John,,Smith,John Smith
-Exeter City FC,Joe,,Anderson,Joe Anderson,John,,Brown,John Brown
-Newport County AFC,Joe,,Jones,Joe Jones,John,,Jones,John Jones
-Crewe Alexandra FC,Joe,,Jones,Joe Jones,John,,Jones,John Jones
-Grimsby Town FC,Vic,,Jones,Vic Jones,John,,Jones,John Jones
-Swindon Town FC,John,,Robertson,John Robertson,Paul,,Smith,Paul Smith
-Plymouth Argyle FC,Joe,,Jones,Joe Jones,John,,Smith,John Smith
-Macclesfield Town FC,Mark,,Jones,Mark Jones,John,,Smith,John Smith
-Crawley Town FC,Dan,,Anderson,Dan Anderson,John,,Smith,John Smith
-Forest Green Rovers FC,Darren,,Collins,Darren Collins,Steve,,Williams,Steve Williams
-Port Vale FC,Joe,,Jones,Joe Jones,John,,Smith,John Smith
-Cheltenham Town FC,John,,Jones,John Jones,Chris,,Jones,Chris Jones
-Bradford City AFC,Tom,,Harbertson,Tom Harbertson,John,,Smith,John Smith
-Colchester United FC,Jamie,,Jones,Jamie Jones,John,,Smith,John Smith
-Cambridge United FC,Laurie,,Jones,Laurie Jones,David,,Smith,David Smith
-Leyton Orient FC,Jae,,Daniels,Jae Daniels,John,,Smith,John Smith
-Salford City FC,James,,Thornley,James Thornley,Danny,,Green,Danny Green
-Northampton Town FC,Joe,,Jones,Joe Jones,John,,Smith,John Smith
-Carlisle United FC,Joe,,Tierney,Joe Tierney,John,,Smith,John Smith
-Mansfield Town FC,Jamie,,Wilson,Jamie Wilson,John,,Smith,John Smith
-Morecambe FC,Josef,,Stanley,Josef Stanley,Andy,,Smith,Andy Smith
-Walsall FC,Mark,,Aston,Mark Aston,John,,Smith,John Smith
-Oldham Athletic AFC,Marc,,Jones,Marc Jones,David,,Taylor,David Taylor
-Stevenage FC,Joe,,Balderson,Joe Balderson,Mark,,Smith,Mark Smith
-Scunthorpe United FC,Joe,,Paterson,Joe Paterson,John,,Jones,John Jones
-Atl%C3%A9tico Madrid footballers,Juanito,,Pernia,Juanito Pernia,Jose,,Lopez,Jose Lopez
-Athletic Bilbao footballers,Jose,,Garitano,Jose Garitano,Jose,,Garcia,Jose Garcia
-Sevilla FC,Mariano,,,Mariano,Jose,,Silva,Jose Silva
-Levante UD footballers,Manuel,,Farinos,Manuel Farinos,Jose,,Rodriguez,Jose Rodriguez
-Real Madrid CF,Juanito,,Diaz,Juanito Diaz,Jose,,Fernandez,Jose Fernandez
-CA Osasuna,Joan,,Fernandez,Joan Fernandez,Javier,,Garcia,Javier Garcia
-Deportivo Alav%C3%A9s,Juanito,,Martinez,Juanito Martinez,Sergio,,Garcia,Sergio Garcia
-FC Barcelona,Juanito,,Caceres,Juanito Caceres,Jose,,Garcia,Jose Garcia
-Granada CF footballers,Juan,,Martinez,Juan Martinez,Antonio,,Perez,Antonio Perez
-Valencia CF,Javier,,Caneira,Javier Caneira,Jose,,Navarro,Jose Navarro
-Real Valladolid,Juanito,,Suarez,Juanito Suarez,Jose,,Fernandez,Jose Fernandez
-RC Celta de Vigo,Juan,,Suarez,Juan Suarez,Jose,,Fernandez,Jose Fernandez
-Real Sociedad footballers,Juanito,,Arrate,Juanito Arrate,Jose,,Alonso,Jose Alonso
-RCD Mallorca,Joan,,Suarez,Joan Suarez,Juan,,Lopez,Juan Lopez
-Real Betis,Juan,,Palermo,Juan Palermo,Jose,,Fernandez,Jose Fernandez
-Villarreal CF,Joan,,Morlanes,Joan Morlanes,Javier,,Gonzalez,Javier Gonzalez
-Getafe CF footballers,Daniel,,Pernia,Daniel Pernia,David,,Diaz,David Diaz
-SD Eibar footballers,Javier,,Garitano,Javier Garitano,Jose,,Garcia,Jose Garcia
-RCD Espanyol footballers,Jose,,Martinez,Jose Martinez,Jose,,Lopez,Jose Lopez
-CD Legan%C3%A9s,Jano,,Juan,Jano Juan,Carlos,,Garcia,Carlos Garcia
-Albacete Balompi%C3%A9,Daniel,,Merino,Daniel Merino,Jose,,Garcia,Jose Garcia
-AD Alcorc%C3%B3n footballers,Juanito,,Fernandez,Juanito Fernandez,Carlos,,Fernandez,Carlos Fernandez
-UD Almer%C3%ADa,Juanito,,Serrano,Juanito Serrano,Jose,,Fernandez,Jose Fernandez
-C%C3%A1diz CF,Juanito,,Caneda,Juanito Caneda,Jose,,Garcia,Jose Garcia
-Deportivo de La Coru%C3%B1a,Juan,,Martinez,Juan Martinez,Jose,,Fernandez,Jose Fernandez
-Elche CF,Juanin,,Atanet,Juanin Atanet,Jose,,Martinez,Jose Martinez
-Extremadura UD footballers,Javi,,Fernandez,Javi Fernandez,David,,Fernandez,David Fernandez
-CF Fuenlabrada footballers,Manuel,,Fernandez,Manuel Fernandez,Jose,,Fernandez,Jose Fernandez
-Girona FC,Jandro,,Muniesa,Jandro Muniesa,Marc,,Garcia,Marc Garcia
-SD Huesca footballers,Javito,,Hernandez,Javito Hernandez,Ruben,,Fernandez,Ruben Fernandez
-UD Las Palmas,Juanito,,Merino,Juanito Merino,Juan,,Gonzalez,Juan Gonzalez
-CD Lugo,Manuel,,Gonzalez,Manuel Gonzalez,Jose,,Diaz,Jose Diaz
-M%C3%A1laga CF,Juanito,,Martinez,Juanito Martinez,Diego,,Gonzalez,Diego Gonzalez
-CD Mirand%C3%A9s footballers,Javi,,Caneda,Javi Caneda,Alex,,Garcia,Alex Garcia
-CD Numancia,Javi,,Merino,Javi Merino,Jose,,Perez,Jose Perez
-Real Oviedo,Javi,,Fernandez,Javi Fernandez,Jose,,Garcia,Jose Garcia
-SD Ponferradina,Jano,,Barreno,Jano Barreno,David,,Garcia,David Garcia
-Racing de Santander,Juan,,Fernandez,Juan Fernandez,Jose,,Garcia,Jose Garcia
-Rayo Vallecano,Juan,,Fernandez,Juan Fernandez,Jose,,Garcia,Jose Garcia
-Sporting de Gij%C3%B3n,Jano,,Fernandez,Jano Fernandez,Jose,,Garcia,Jose Garcia
-CD Tenerife,Juanito,,Martinez,Juanito Martinez,Jose,,Garcia,Jose Garcia
-Real Zaragoza,Juanito,,Granero,Juanito Granero,Jose,,Martinez,Jose Martinez
-Amiens SC,Sebastien,,Heloise,Sebastien Heloise,Fabrice,,Traore,Fabrice Traore
-Angers SCO,Pablo,,Martinez,Pablo Martinez,Stephane,,Traore,Stephane Traore
-FC Girondins de Bordeaux,Mariano,,Caneira,Mariano Caneira,Andre,,Santos,Andre Santos
-Dijon FCO,Jordan,,Ciman,Jordan Ciman,Florent,,Martin,Florent Martin
-Lille OSC,Rene,,Meite,Rene Meite,Jean,,Araujo,Jean Araujo
-Olympique Lyonnais,Marcelo,,Fournier,Marcelo Fournier,Eric,,Kone,Eric Kone
-Olympique de Marseille,Jean,,Lemina,Jean Lemina,Laurent,,Perez,Laurent Perez
-FC Metz,Mario,,Metanire,Mario Metanire,Philippe,,NDiaye,Philippe NDiaye
-AS Monaco FC,Patrice,,Grandsir,Patrice Grandsir,Eric,,Traore,Eric Traore
-Montpellier HSC,Jean,,Bourrier,Jean Bourrier,Nicolas,,Passi,Nicolas Passi
-FC Nantes,Maurice,,Mourabet,Maurice Mourabet,Nicolas,,Toure,Nicolas Toure
-OGC Nice,Jean,,Gagnier,Jean Gagnier,Anthony,,Traore,Anthony Traore
-N%C3%AEmes Olympique,Florea,,Martinez,Florea Martinez,Eric,,Cisse,Eric Cisse
-Paris Saint-Germain FC,Florian,,Parente,Florian Parente,Stephane,,Traore,Stephane Traore
-Stade de Reims,Alain,,Metanire,Alain Metanire,Thomas,,Fontaine,Thomas Fontaine
-Stade Rennais FC,Jean,,Moreira,Jean Moreira,Olivier,,Diallo,Olivier Diallo
-AS Saint-%C3%89tienne,Siaka,,Moulin,Siaka Moulin,Laurent,,Camara,Laurent Camara
-RC Strasbourg Alsace,Maurice,,Hardouin,Maurice Hardouin,Stephane,,Santos,Stephane Santos
-Toulouse FC,Alain,,Moreira,Alain Moreira,Christophe,,Didot,Christophe Didot
-Le Havre AC,Mathieu,,Manset,Mathieu Manset,Sebastien,,Ba,Sebastien Ba
-FC Lorient,Mario,,Lemina,Mario Lemina,Benjamin,,Ayew,Benjamin Ayew
-Valenciennes FC,Jean,,Hardouin,Jean Hardouin,David,,Bahoken,David Bahoken
-FC Chambly,Romain,,Heloise,Romain Heloise,Thomas,,Aine,Thomas Aine
-Clermont Foot,Florian,,Bernardoni,Florian Bernardoni,Cedric,,Armand,Cedric Armand
-Chamois Niortais FC,Johan,,Bourhane,Johan Bourhane,David,,Bernard,David Bernard
-Troyes AC,Gael,,Bernardoni,Gael Bernardoni,David,,Camara,David Camara
-AC Ajaccio,Cedric,,Laurenti,Cedric Laurenti,Cedric,,Diabate,Cedric Diabate
-Rodez AF,Florian,,Sane,Florian Sane,David,,Sane,David Sane
-FC Sochaux-Montb%C3%A9liard,Jean,,Davies,Jean Davies,Franck,,Laurent,Franck Laurent
-AJ Auxerre,Jean,,Dale,Jean Dale,Stephane,,Traore,Stephane Traore
-RC Lens,Jean,,Moreira,Jean Moreira,Guillaume,,Camara,Guillaume Camara
-En Avant de Guingamp,Fabrice,,Moreira,Fabrice Moreira,Christophe,,Camara,Christophe Camara
-AS Nancy,Jordan,,Dale,Jordan Dale,Olivier,,Camara,Olivier Camara
-Stade Malherbe Caen,Ismael,,Suares,Ismael Suares,Stephane,,NDiaye,Stephane NDiaye
-Grenoble Foot 38,Maurice,,Moreira,Maurice Moreira,Laurent,,Coulibaly,Laurent Coulibaly
-Le Mans FC,Alain,,Hardouin,Alain Hardouin,Cedric,,Camara,Cedric Camara
-US Orl%C3%A9ans,Patrice,,Kande,Patrice Kande,Arnaud,,Cissokho,Arnaud Cissokho
-LB Ch%C3%A2teauroux,Fabrice,,Bourgeois,Fabrice Bourgeois,Kevin,,Traore,Kevin Traore
-Paris FC,Alain,,Laurier,Alain Laurier,Vincent,,Keita,Vincent Keita
-RB Leipzig,Tim,,Albert,Tim Albert,Sebastian,,Muller,Sebastian Muller
-FC Bayern Munich footballers,Mario,,Aigner,Mario Aigner,Hans,,Muller,Hans Muller
-VfL Wolfsburg,Martin,,Baier,Martin Baier,Thomas,,Madsen,Thomas Madsen
-Bayer 04 Leverkusen,Jermaine,,Posner,Jermaine Posner,Markus,,Bender,Markus Bender
-Borussia Dortmund,Martin,,Geisler,Martin Geisler,Thomas,,Schmidt,Thomas Schmidt
-SC Freiburg,Sebastian,,Kerk,Sebastian Kerk,Michael,,Caligiuri,Michael Caligiuri
-Eintracht Frankfurt,Marko,,Weilbacher,Marko Weilbacher,Thomas,,Lindner,Thomas Lindner
-Borussia M%C3%B6nchengladbach,Marko,,Herlovsen,Marko Herlovsen,Michael,,Schulz,Michael Schulz
-TSG 1899 Hoffenheim,Daniel,,Wieser,Daniel Wieser,Kevin,,Haas,Kevin Haas
-FC Schalke 04,Mario,,Klinger,Mario Klinger,Michael,,Abel,Michael Abel
-1 FC Union Berlin,Mario,,Leistner,Mario Leistner,Daniel,,Hartel,Daniel Hartel
-Fortuna D%C3%BCsseldorf,Martin,,Baltes,Martin Baltes,Thomas,,Allofs,Thomas Allofs
-SV Werder Bremen,Mike,,Basler,Mike Basler,Frank,,Schmidt,Frank Schmidt
-1 FC K%C3%B6ln,Martin,,Kostner,Martin Kostner,Thomas,,Muller,Thomas Muller
-SC Paderborn 07,Tim,,Fischer,Tim Fischer,Sebastian,,Brinkmann,Sebastian Brinkmann
-FC Augsburg,Marvin,,Reinthaler,Marvin Reinthaler,Michael,,Muller,Michael Muller
-Hertha BSC,Mario,,Basler,Mario Basler,Christian,,Muller,Christian Muller
-1 FSV Mainz 05,Aaron,,Polter,Aaron Polter,Christian,,Muller,Christian Muller
-Hamburger SV,Marcell,,Baron,Marcell Baron,Michael,,Dorfel,Michael Dorfel
-VfB Stuttgart,Marc,,Fischer,Marc Fischer,Michael,,Forster,Michael Forster
-SV Sandhausen,Mario,,Langer,Mario Langer,Daniel,,Muller,Daniel Muller
-VfL Osnabr%C3%BCck,Aaran,,Fernandes,Aaran Fernandes,Daniel,,Neidhart,Daniel Neidhart
-Arminia Bielefeld,Max,,Borner,Max Borner,Christian,,Brinkmann,Christian Brinkmann
-SpVgg Greuther F%C3%BCrth,Florian,,Sailer,Florian Sailer,Daniel,,Muller,Daniel Muller
-FC Erzgebirge Aue,Dorian,,Heller,Dorian Heller,Sven,,Muller,Sven Muller
-SSV Jahn Regensburg,Adrian,,Heister,Adrian Heister,Alexander,,Muller,Alexander Muller
-1 FC N%C3%BCrnberg,Jan,,Kramer,Jan Kramer,Thomas,,Muller,Thomas Muller
-Karlsruher SC,Martin,,Roser,Martin Roser,Michael,,da Silva,Michael da Silva
-1 FC Heidenheim,Martin,,Vier,Martin Vier,Robert,,Schmidt,Robert Schmidt
-Hannover 96,Felipe,,Ismael,Felipe Ismael,Stefan,,Muller,Stefan Muller
-FC St Pauli,Marco,,Lechner,Marco Lechner,Michael,,Muller,Michael Muller
-Dynamo Dresden,Mario,,Zacher,Mario Zacher,Thomas,,Muller,Thomas Muller
-Holstein Kiel,Patrick,,Fischer,Patrick Fischer,Patrick,,Jensen,Patrick Jensen
-SV Darmstadt 98,Elia,,Sailer,Elia Sailer,Benjamin,,Hubner,Benjamin Hubner
-VfL Bochum,Danilo,,Geisler,Danilo Geisler,Michael,,Kramer,Michael Kramer
-SV Wehen Wiesbaden,Patric,,Doringer,Patric Doringer,Patrick,,Hubner,Patrick Hubner
-Atalanta BC,Fabiano,,Perani,Fabiano Perani,Andrea,,Bianchi,Andrea Bianchi
-Bologna FC 1909,Daniele,,Perani,Daniele Perani,Andrea,,Ferrari,Andrea Ferrari
-Brescia Calcio,Andrea,,Dainelli,Andrea Dainelli,Andrea,,Ferrari,Andrea Ferrari
-Cagliari Calcio,Mario,,Marcolin,Mario Marcolin,Marco,,Bianchi,Marco Bianchi
-ACF Fiorentina,Adriano,,Bertini,Adriano Bertini,Giuseppe,,Manfredini,Giuseppe Manfredini
-Genoa CFC,Gaetano,,Dainelli,Gaetano Dainelli,Francesco,,Ferrari,Francesco Ferrari
-Hellas Verona FC,Juanito,,Dainelli,Juanito Dainelli,Marco,,Ferrari,Marco Ferrari
-Inter Milan,Dino,,Bertini,Dino Bertini,Giuseppe,,Colombo,Giuseppe Colombo
-Juventus FC,Danilo,,Lemina,Danilo Lemina,Giuseppe,,Rossi,Giuseppe Rossi
-SS Lazio,Mauricio,,Faraoni,Mauricio Faraoni,Roberto,,Anderson,Roberto Anderson
-US Lecce,Dino,,Dainelli,Dino Dainelli,Giuseppe,,Di Chiara,Giuseppe Di Chiara
-AC Milan,Marco,,,Marco,Marco,,Aubameyang,Marco Aubameyang
-SSC Napoli,Daniele,,Sogliano,Daniele Sogliano,Roberto,,Esposito,Roberto Esposito
-Parma Calcio 1913,Adriano,,Frediani,Adriano Frediani,Marco,,Ferrari,Marco Ferrari
-AS Roma,Adriano,,Petrini,Adriano Petrini,Marco,,Conti,Marco Conti
-UC Sampdoria,Andrea,,Marcolin,Andrea Marcolin,Andrea,,Ferrari,Andrea Ferrari
-SPAL,Fabio,,Arini,Fabio Arini,Marco,,Vecchi,Marco Vecchi
-Torino FC,Mario,,Briano,Mario Briano,Alessandro,,Benedetti,Alessandro Benedetti
-Udinese Calcio,Samir,,Bertoni,Samir Bertoni,Antonio,,Santos,Antonio Santos
-Ascoli Calcio 1898 FC,Daniele,,Frediani,Daniele Frediani,Andrea,,Moro,Andrea Moro
-Benevento Calcio,Fabio,,Persiani,Fabio Persiani,Luca,,Bianco,Luca Bianco
-AC ChievoVerona,Mariano,,Dainelli,Mariano Dainelli,Marco,,Esposito,Marco Esposito
-AS Cittadella,Luca,,Martin,Luca Martin,Andrea,,Benedetti,Andrea Benedetti
-Cosenza Calcio,Mariano,,Giordano,Mariano Giordano,Andrea,,Raimondi,Andrea Raimondi
-US Cremonese,Juanito,,Arini,Juanito Arini,Francesco,,Arcari,Francesco Arcari
-FC Crotone,Manuel,,Sinato,Manuel Sinato,Giuseppe,,Ferrari,Giuseppe Ferrari
-Empoli FC,Gaetano,,Dainelli,Gaetano Dainelli,Marco,,Cribari,Marco Cribari
-Frosinone Calcio,Luciano,,Persiani,Luciano Persiani,Andrea,,Bocchetti,Andrea Bocchetti
-SS Juve Stabia,Gaetano,,Cellini,Gaetano Cellini,Antonio,,Esposito,Antonio Esposito
-AS Livorno Calcio,Marco,,Dainelli,Marco Dainelli,Andrea,,Balleri,Andrea Balleri
-AC Perugia Calcio,Daniele,,Martini,Daniele Martini,Marco,,Lombardo,Marco Lombardo
-Delfino Pescara 1936,Andrea,,Martini,Andrea Martini,Andrea,,Bovo,Andrea Bovo
-AC Pisa 1909,Marco,,Frediani,Marco Frediani,Alessandro,,Benedetti,Alessandro Benedetti
-Pordenone Calcio,Luca,,Martin,Luca Martin,Luca,,Almici,Luca Almici
-US Salernitana 1919,Romano,,Mantovani,Romano Mantovani,Francesco,,Rossi,Francesco Rossi
-Spezia Calcio,Fabiano,,Zaninelli,Fabiano Zaninelli,Nicola,,Benedetti,Nicola Benedetti
-Trapani Calcio,Simone,,Pacilli,Simone Pacilli,Andrea,,Mancosu,Andrea Mancosu
-Venezia FC,Marco,,Pinato,Marco Pinato,Andrea,,Raimondi,Andrea Raimondi
-Virtus Entella,Simone,,Sansovini,Simone Sansovini,Simone,,Beretta,Simone Beretta
-Belenenses SAD,Lica,,Dias,Lica Dias,Goncalo,,Santos,Goncalo Santos
-SL Benfica footballers,Rosario,,Freitas,Rosario Freitas,Jose,,Pereira,Jose Pereira
-Boavista FC,Ricardo,,Barbosa,Ricardo Barbosa,Pedro,,Santos,Pedro Santos
-SC Braga,Baiano,,Palmeira,Baiano Palmeira,Jo~ao,,Silva,Jo~ao Silva
-CD Aves,Martelinho,,Santos,Martelinho Santos,Ricardo,,Silva,Ricardo Silva
-FC Famalic%C3%A3o,Ricardo,,Paneira,Ricardo Paneira,Jo~ao,,Lopes,Jo~ao Lopes
-Gil Vicente FC,Januario,,Bessa,Januario Bessa,Pedro,,Fernandes,Pedro Fernandes
-CS Mar%C3%ADtimo,Mariano,,Pereira,Mariano Pereira,Fernando,,da Silva,Fernando da Silva
-Moreirense FC,Juanico,,Pires,Juanico Pires,Jo~ao,,Fernandes,Jo~ao Fernandes
-FC Pa%C3%A7os de Ferreira,Baiano,,Felgueiras,Baiano Felgueiras,Filipe,,da Silva,Filipe da Silva
-Portimonense SC,Paulinho,,,Paulinho,Jo~ao,,Santos,Jo~ao Santos
-FC Porto,Laurindo,,Freitas,Laurindo Freitas,Carlos,,Pereira,Carlos Pereira
-Rio Ave FC,Huanderson,,Felgueiras,Huanderson Felgueiras,Pedro,,Santos,Pedro Santos
-CD Santa Clara,Mariano,,,Mariano,Paulo,,Silva,Paulo Silva
-Sporting CP,Luciano,,Tavares,Luciano Tavares,Yannick,,Tavares,Yannick Tavares
-CD Tondela,Aguinaldo,,Palmeira,Aguinaldo Palmeira,Ricardo,,Costa,Ricardo Costa
-Vit%C3%B3ria SC,Paulo,,Freitas,Paulo Freitas,Jo~ao,,Silva,Jo~ao Silva
-Vit%C3%B3ria FC,Mano,,Saleiro,Mano Saleiro,Jo~ao,,Santos,Jo~ao Santos
-FC Krasnodar,Aleksandr,,Minkov,Aleksandr Minkov,Aleksandr,,Yermakov,Aleksandr Yermakov
-FC Spartak Moscow,Aleksandr,,Salnikov,Aleksandr Salnikov,Aleksandr,,Ivanov,Aleksandr Ivanov
-FC Rostov,Aleksandr,,Olenikov,Aleksandr Olenikov,Aleksandr,,Ivanov,Aleksandr Ivanov
-FC Lokomotiv Moscow,Aleksandr,,Lokhanov,Aleksandr Lokhanov,Aleksandr,,Kuznetsov,Aleksandr Kuznetsov
-FC Zenit Saint Petersburg,Oleksandr,,Danilov,Oleksandr Danilov,Sergei,,Ivanov,Sergei Ivanov
-PFC CSKA Moscow,Valeri,,Shikunov,Valeri Shikunov,Sergei,,Ivanov,Sergei Ivanov
-FC Arsenal Tula,Aleksandr,,Dyakov,Aleksandr Dyakov,Aleksandr,,Kuznetsov,Aleksandr Kuznetsov
-FC Ural Yekaterinburg,Aleksei,,Sinyov,Aleksei Sinyov,Aleksandr,,Morozov,Aleksandr Morozov
-FC Rubin Kazan,Aleksandr,,Zakirov,Aleksandr Zakirov,Aleksandr,,Akhmetzyanov,Aleksandr Akhmetzyanov
-FC Ufa,Oleksandr,,Kolesnikov,Oleksandr Kolesnikov,Aleksandr,,Vasilyev,Aleksandr Vasilyev
-FC Dynamo Moscow,Aleksandr,,Salnikov,Aleksandr Salnikov,Aleksandr,,Grishin,Aleksandr Grishin
-FC Akhmat Grozny,Aleksandr,,Daliyev,Aleksandr Daliyev,Aleksandr,,Dzhabrailov,Aleksandr Dzhabrailov
-FC Krylia Sovetov Samara,Aleksandr,,Kiryanov,Aleksandr Kiryanov,Aleksandr,,Ivanov,Aleksandr Ivanov
-FC Tambov,Aleksandr,,Kulikov,Aleksandr Kulikov,Aleksandr,,Arkhipov,Aleksandr Arkhipov
-PFC Sochi,Nikita,,Bakhtiyarov,Nikita Bakhtiyarov,Nikita,,Zabolotny,Nikita Zabolotny
-FC Orenburg,Aleksandr,,Kaykov,Aleksandr Kaykov,Sergei,,Klimov,Sergei Klimov
-SBV Vitesse,Michael,,Snijders,Michael Snijders,Peter,,Hofs,Peter Hofs
-AFC Ajax,Dani,,Sorensen,Dani Sorensen,Wim,,Keizer,Wim Keizer
-PSV Eindhoven,Jeremain,,Nielsen,Jeremain Nielsen,Jan,,de Jong,Jan de Jong
-FC Twente,Dario,,Celina,Dario Celina,Theo,,John,Theo John
-Sparta Rotterdam,Kew,,Fischer,Kew Fischer,Jan,,Santos,Jan Santos
-AZ Alkmaar,Kew,,Nielsen,Kew Nielsen,Ruud,,Dekker,Ruud Dekker
-FC Utrecht,Co,,Wouters,Co Wouters,Erik,,de Jong,Erik de Jong
-Feyenoord,Soren,,Larsen,Soren Larsen,Jan,,Buijs,Jan Buijs
-SC Heerenveen,Mario,,Jensen,Mario Jensen,Michel,,de Jong,Michel de Jong
-ADO Den Haag,Marco,,Meijers,Marco Meijers,Danny,,de Geer,Danny de Geer
-VVV-Venlo,Joeri,,Gerritsen,Joeri Gerritsen,Frank,,Janssen,Frank Janssen
-Heracles Almelo,Rob,,Armenteros,Rob Armenteros,Rob,,Calderwood,Rob Calderwood
-FC Groningen,Martin,,Koeman,Martin Koeman,Danny,,van Dijk,Danny van Dijk
-PEC Zwolle,Dario,,Karlsen,Dario Karlsen,Jan,,van den Berg,Jan van den Berg
-FC Emmen,Martin,,Zeinstra,Martin Zeinstra,Bas,,de Groot,Bas de Groot
-Fortuna Sittard,Jose,,Notermans,Jose Notermans,Mark,,Janssen,Mark Janssen
-RKC Waalwijk,Marcel,,Vertonghen,Marcel Vertonghen,Hans,,Mulder,Hans Mulder
-Standard Li%C3%A8ge,Jean,,Bastien,Jean Bastien,Jonathan,,Santos,Jonathan Santos
-Club Brugge KV,Koen,,Sorensen,Koen Sorensen,Ivan,,Addo,Ivan Addo
-KV Mechelen,Patrice,,Bosiers,Patrice Bosiers,Anthony,,Claes,Anthony Claes
-Royal Excel Mouscron,Julian,,Jelavic,Julian Jelavic,Kevin,,Mpenza,Kevin Mpenza
-KAA Gent,Martin,,Poletanovic,Martin Poletanovic,Thomas,,NDiaye,Thomas NDiaye
-KRC Genk,Koen,,Cornelis,Koen Cornelis,Marco,,Gudjonsson,Marco Gudjonsson
-KV Oostende,Fabrice,,Cornet,Fabrice Cornet,Ibrahima,,Coulibaly,Ibrahima Coulibaly
-SV Zulte Waregem,Saido,,Berahino,Saido Berahino,Jeremy,,Bjordal,Jeremy Bjordal
-Royal Antwerp FC,Jamie,,Doherty,Jamie Doherty,Kevin,,Frankel,Kevin Frankel
-R Charleroi SC,Dorian,,Dervite,Dorian Dervite,Sebastien,,Brogno,Sebastien Brogno
-KV Kortrijk,Laurent,,Metanire,Laurent Metanire,Michael,,Claeys,Michael Claeys
-Sint-Truidense VV,Koen,,Simaeys,Koen Simaeys,Marc,,Peeters,Marc Peeters
-RSC Anderlecht,Maurice,,Cornelis,Maurice Cornelis,Jan,,Martens,Jan Martens
-Cercle Brugge KSV,Denis,,Cornelis,Denis Cornelis,Kevin,,Camara,Kevin Camara
-KAS Eupen,Marc,,Valiente,Marc Valiente,Christian,,Diallo,Christian Diallo
-Waasland-Beveren,Harrie,,Milosevic,Harrie Milosevic,Rachid,,Milosevic,Rachid Milosevic
-Alanyaspor footballers,Juanfran,,Yilmaz,Juanfran Yilmaz,Emre,,Yilmaz,Emre Yilmaz
-Fenerbah%C3%A7e SK footballers,Serkan,,Silan,Serkan Silan,Mehmet,,Simsek,Mehmet Simsek
-Denizlispor footballers,Ersen,,Calik,Ersen Calik,Ismail,,Akyuz,Ismail Akyuz
-%C3%87aykur Rizespor footballers,Murat,,Altinay,Murat Altinay,Mehmet,,Santos,Mehmet Santos
-Trabzonspor footballers,Ersen,,Marin,Ersen Marin,Fatih,,Demir,Fatih Demir
-MKE Ankarag%C3%BCc%C3%BC footballers,Serol,,Ozkan,Serol Ozkan,Mehmet,,Dogan,Mehmet Dogan
-Sivasspor footballers,Ersen,,Celikay,Ersen Celikay,Ibrahim,,Ozturk,Ibrahim Ozturk
-Be%C5%9Fikta%C5%9F JK footballers,Adriano,,Celikay,Adriano Celikay,Ali,,Ozkan,Ali Ozkan
-Galatasaray SK footballers,Mariano,,Calik,Mariano Calik,Emre,,Erdem,Emre Erdem
-Antalyaspor footballers,Senol,,Arslan,Senol Arslan,Mehmet,,Arslan,Mehmet Arslan
-Gazi%C5%9Fehir Gaziantep FK footballers,Burhan,,Aslan,Burhan Aslan,Ugur,,Keles,Ugur Keles
-Yeni Malatyaspor,Musa,,Calik,Musa Calik,Mustafa,,Ozturk,Mustafa Ozturk
-Konyaspor footballers,Omer,,Felgueiras,Omer Felgueiras,Murat,,Akin,Murat Akin
-%C4%B0stanbul Ba%C5%9Fak%C5%9Fehir FK,Merthan,,Yalcin,Merthan Yalcin,Orhan,,Korkmaz,Orhan Korkmaz
-Kayserispor footballers,Berkan,,Yalcin,Berkan Yalcin,Ali,,Lopes,Ali Lopes
-Kas%C4%B1mpa%C5%9Fa SK footballers,Ersen,,Baran,Ersen Baran,Murat,,Ozturk,Murat Ozturk
-G%C3%B6ztepe SK footballers,Ersen,,Cetin,Ersen Cetin,Ali,,Ozkan,Ali Ozkan
-Gen%C3%A7lerbirli%C4%9Fi SK footballers,Ersen,,Calik,Ersen Calik,Mehmet,,Ozturk,Mehmet Ozturk
-Celtic FC,Joe,,Gardyne,Joe Gardyne,John,,Miller,John Miller
-Rangers FC,Joe,,Manderson,Joe Manderson,John,,Ferguson,John Ferguson
-Livingston FC,Jamie,,Bartley,Jamie Bartley,David,,Miller,David Miller
-Aberdeen FC,John,,Robertson,John Robertson,John,,Smith,John Smith
-Motherwell FC,Jamie,,Grehan,Jamie Grehan,John,,Brown,John Brown
-Kilmarnock FC,Joe,,Nelson,Joe Nelson,John,,Smith,John Smith
-Hamilton Academical FC,John,,Gilhaney,John Gilhaney,John,,Ferguson,John Ferguson
-Ross County FC,Joe,,Anderson,Joe Anderson,John,,Smith,John Smith
-Hibernian FC,Joe,,Henderson,Joe Henderson,John,,Brown,John Brown
-St Mirren FC,Pat,,Cameron,Pat Cameron,John,,Brown,John Brown
-Heart of Midlothian FC,John,,Petras,John Petras,John,,Smith,John Smith
-St Johnstone FC,John,,Robertson,John Robertson,John,,Robertson,John Robertson
-BSC Young Boys,Josef,,Martinez,Josef Martinez,Alain,,Burki,Alain Burki
-FC Basel,Adrian,,Wieser,Adrian Wieser,Marco,,Ajeti,Marco Ajeti
-FC Sion,Gabriel,,Berisha,Gabriel Berisha,Nicolas,,Buhler,Nicolas Buhler
-FC Thun,Dario,,Wieser,Dario Wieser,Marco,,Santos,Marco Santos
-Servette FC,Daniel,,Soares,Daniel Soares,Andre,,Muller,Andre Muller
-FC Lugano,Gian,,Martinovic,Gian Martinovic,Christian,,Andreoli,Christian Andreoli
-FC Luzern,Dario,,Martinez,Dario Martinez,Peter,,Muller,Peter Muller
-FC St Gallen,Mario,,Vernier,Mario Vernier,Marco,,Sutter,Marco Sutter
-Neuch%C3%A2tel Xamax FCS,Alain,,Berisha,Alain Berisha,Admir,,da Silva,Admir da Silva
-FC Z%C3%BCrich,Daniel,,Seiler,Daniel Seiler,Mario,,Rodriguez,Mario Rodriguez
-PAOK FC,Charlie,,Kanakoudis,Charlie Kanakoudis,Dimitris,,Anastasiadis,Dimitris Anastasiadis
-Xanthi FC,Manolis,,Labriakos,Manolis Labriakos,Nikos,,Garcia,Nikos Garcia
-Olympiacos FC,Jorge,,Giannoulis,Jorge Giannoulis,Giorgos,,Papadopoulos,Giorgos Papadopoulos
-OFI Crete FC,Mario,,Poursanidis,Mario Poursanidis,Nikos,,Diarra,Nikos Diarra
-AEK Athens FC,Ilias,,Dounis,Ilias Dounis,Christos,,Vlachos,Christos Vlachos
-Atromitos FC,Stergos,,Giannoulis,Stergos Giannoulis,Christos,,Papadopoulos,Christos Papadopoulos
-Aris Thessaloniki FC,Nikos,,Bouzanis,Nikos Bouzanis,Nikos,,Papadopoulos,Nikos Papadopoulos
-Panathinaikos FC,Nikos,,Georgiadis,Nikos Georgiadis,Nikos,,Apostolopoulos,Nikos Apostolopoulos
-Asteras Tripoli FC,Sebastian,,Giannoulis,Sebastian Giannoulis,Christos,,Fernandez,Christos Fernandez
-Panetolikos FC,Vangelis,,Marinakis,Vangelis Marinakis,Giorgos,,Bejarano,Giorgos Bejarano
-Panionios FC,Nikos,,Giannoulis,Nikos Giannoulis,Dimitris,,Giannou,Dimitris Giannou
-Lamia FC,Ilias,,Papoulis,Ilias Papoulis,Dimitris,,Acosta,Dimitris Acosta
-FC Midtjylland,Mikael,,Hansen,Mikael Hansen,Jesper,,Poulsen,Jesper Poulsen
-FC Copenhagen,Martin,,Nielsen,Martin Nielsen,Thomas,,Nielsen,Thomas Nielsen
-AaB Fodbold,Martin,,Pedersen,Martin Pedersen,Thomas,,Andersen,Thomas Andersen
-FC Nordsj%C3%A6lland,Martin,,Hansen,Martin Hansen,Andreas,,Nielsen,Andreas Nielsen
-Br%C3%B8ndby IF,Soren,,Larsen,Soren Larsen,Martin,,Jensen,Martin Jensen
-Aarhus Gymnastikforening,Bent,,Nielsen,Bent Nielsen,Morten,,Nielsen,Morten Nielsen
-Odense Boldklub,Kai,,Sorensen,Kai Sorensen,Michael,,Nielsen,Michael Nielsen
-S%C3%B8nderjyskE Fodbold,Martin,,Sorensen,Martin Sorensen,Mads,,Christensen,Mads Christensen
-Lyngby Boldklub,John,,Andersen,John Andersen,Thomas,,Nielsen,Thomas Nielsen
-AC Horsens,Mads,,Jensen,Mads Jensen,Mads,,Sorensen,Mads Sorensen
-Randers FC,Morten,,Karlsen,Morten Karlsen,Mikkel,,Jensen,Mikkel Jensen
-Hobro IK,Mads,,Sorensen,Mads Sorensen,Mathias,,Pedersen,Mathias Pedersen
-Silkeborg IF,Jim,,Lassen,Jim Lassen,Peter,,Hansen,Peter Hansen
-FC Shakhtar Donetsk,Valeriy,,Harashchenkov,Valeriy Harashchenkov,Serhiy,,Shevchuk,Serhiy Shevchuk
-FC Desna Chernihiv,Oleksandr,,Halenkov,Oleksandr Halenkov,Andriy,,Favorov,Andriy Favorov
-FC Zorya Luhansk,Oleksandr,,Datsenko,Oleksandr Datsenko,Oleksandr,,Zhuravlyov,Oleksandr Zhuravlyov
-FC Oleksandriya,Vitaliy,,Myahkov,Vitaliy Myahkov,Serhiy,,Bohatyr,Serhiy Bohatyr
-FC Dynamo Kyiv,Oleksandr,,Datsenko,Oleksandr Datsenko,Oleksandr,,Moroz,Oleksandr Moroz
-SC Dnipro-1,Oleksandr,,Kravchenko,Oleksandr Kravchenko,Oleksandr,,Bashlay,Oleksandr Bashlay
-FC Vorskla Poltava,Oleh,,Petkov,Oleh Petkov,Serhiy,,Dallku,Serhiy Dallku
-FC Kolos Kovalivka,Oleksandr,,Yashkov,Oleksandr Yashkov,Oleksandr,,Bahdasarov,Oleksandr Bahdasarov
-FC Mariupol,Oleksandr,,Harashchenkov,Oleksandr Harashchenkov,Oleksandr,,Hakobyan,Oleksandr Hakobyan
-FC Lviv,Oleksandr,,Sarnavskyi,Oleksandr Sarnavskyi,Serhiy,,Mostovyi,Serhiy Mostovyi
-FC Karpaty Lviv,Oleksandr,,Skachenko,Oleksandr Skachenko,Andriy,,Baranets,Andriy Baranets
-FC Olimpik Donetsk,Serhiy,,Penkov,Serhiy Penkov,Serhiy,,Oliynyk,Serhiy Oliynyk
-San Lorenzo footballers,Carlos,,Pernia,Carlos Pernia,Jose,,Gonzalez,Jose Gonzalez
-Boca Juniors footballers,Baiano,,Palermo,Baiano Palermo,Juan,,Gonzalez,Juan Gonzalez
-Talleres de C%C3%B3rdoba footballers,Jorge,,Valiente,Jorge Valiente,Juan,,Bustos,Juan Bustos
-Club Atl%C3%A9tico Lan%C3%BAs footballers,Martin,,Martinez,Martin Martinez,Diego,,Diaz,Diego Diaz
-Newell%27s Old Boys footballers,Dario,,Franco,Dario Franco,Juan,,Rodriguez,Juan Rodriguez
-Arsenal de Sarand%C3%AD footballers,Juan,,Baez,Juan Baez,Juan,,Gonzalez,Juan Gonzalez
-Rosario Central footballers,Jorge,,Figueroa,Jorge Figueroa,Jose,,Gonzalez,Jose Gonzalez
-Argentinos Juniors footballers,Juan,,Herron,Juan Herron,Juan,,Rodriguez,Juan Rodriguez
-River Plate footballers,Juan,,Martinez,Juan Martinez,Juan,,Fernandez,Juan Fernandez
-Club Atl%C3%A9tico V%C3%A9lez Sarsfield footballers,Juan,,Candelo,Juan Candelo,Juan,,Dominguez,Juan Dominguez
-Estudiantes de La Plata footballers,Juan,,Fernandez,Juan Fernandez,Juan,,Fernandez,Juan Fernandez
-Club Atl%C3%A9tico Independiente footballers,Daniel,,Pernia,Daniel Pernia,Carlos,,Martinez,Carlos Martinez
-Racing Club de Avellaneda footballers,Carlos,,Diaz,Carlos Diaz,Juan,,Gonzalez,Juan Gonzalez
-Atl%C3%A9tico Tucum%C3%A1n footballers,Gabriel,,Araoz,Gabriel Araoz,Cristian,,Garcia,Cristian Garcia
-Hurac%C3%A1n footballers,Mauro,,Milano,Mauro Milano,Juan,,Diaz,Juan Diaz
-Central C%C3%B3rdoba de Santiago del Estero footballers,Franco,,Vella,Franco Vella,Pablo,,Rodriguez,Pablo Rodriguez
-Aldosivi footballers,Juan,,Herron,Juan Herron,Juan,,Martinez,Juan Martinez
-Banfield footballers,Jose,,Payero,Jose Payero,Nicolas,,Alvarez,Nicolas Alvarez
-Uni%C3%B3n de Santa Fe footballers,Cristian,,Peano,Cristian Peano,Matias,,Garcia,Matias Garcia
-Col%C3%B3n FC,Mariana,,Gonzalez,Mariana Gonzalez,Lorena,,Gonzalez,Lorena Gonzalez
-Defensa y Justicia footballers,Juan,,Bareiro,Juan Bareiro,Juan,,Fernandez,Juan Fernandez
-Godoy Cruz footballers,Gabriel,,Fernandez,Gabriel Fernandez,Diego,,Ramirez,Diego Ramirez
-Gimnasia y Esgrima de La Plata footballers,Siro,,Bareiro,Siro Bareiro,Juan,,Fernandez,Juan Fernandez
-Quer%C3%A9taro FC footballers,Mauro,,Martinez,Mauro Martinez,Diego,,Garcia,Diego Garcia
-Santos Laguna footballers,Mario,,Cardenas,Mario Cardenas,Jose,,Rodriguez,Jose Rodriguez
-Club Am%C3%A9rica footballers,Mario,,Martinez,Mario Martinez,Carlos,,Sanchez,Carlos Sanchez
-Club Necaxa footballers,Jose,,Meza,Jose Meza,Jose,,Hernandez,Jose Hernandez
-Tigres UANL footballers,Alan,,Mendoza,Alan Mendoza,Carlos,,Hernandez,Carlos Hernandez
-Club Atlas footballers,Daniel,,Cervantes,Daniel Cervantes,Jose,,Torres,Jose Torres
-Club Le%C3%B3n footballers,Cesar,,Gonzalez,Cesar Gonzalez,Jose,,Gonzalez,Jose Gonzalez
-CF Monterrey,Dario,,Mendez,Dario Mendez,Juan,,Gonzalez,Juan Gonzalez
-Club Universidad Nacional footballers,Manuel,,Martinez,Manuel Martinez,Jose,,Lopez,Jose Lopez
-Atl%C3%A9tico San Luis footballers,Jose,,Castro,Jose Castro,Diego,,Castro,Diego Castro
-Cruz Azul footballers,Javier,,Hernandez,Javier Hernandez,Carlos,,Gutierrez,Carlos Gutierrez
-Club Tijuana footballers,Juan,,Mendoza,Juan Mendoza,Juan,,Garcia,Juan Garcia
-Monarcas Morelia footballers,Carlos,,Figueroa,Carlos Figueroa,Carlos,,Gonzalez,Carlos Gonzalez
-CF Pachuca,Juan,,Lainez,Juan Lainez,Juan,,Hernandez,Juan Hernandez
-CD Guadalajara footballers,Carlos,,Cardenas,Carlos Cardenas,Jose,,Hernandez,Jose Hernandez
-FC Ju%C3%A1rez footballers,Ian,,Pais,Ian Pais,Alejandro,,Castro,Alejandro Castro
-Puebla FC,Pablo,,Cervantes,Pablo Cervantes,Juan,,Hernandez,Juan Hernandez
-Deportivo Toluca FC,Daniel,,Quezada,Daniel Quezada,Carlos,,Garcia,Carlos Garcia
-Tiburones Rojos de Veracruz footballers,Adrian,,Ramirez,Adrian Ramirez,Jose,,Garcia,Jose Garcia
-Adelaide United FC,Marc,,Armiento,Marc Armiento,Michael,,Griffiths,Michael Griffiths
-Brisbane Roar FC,Marcio,,Reardon,Marcio Reardon,Matt,,Dodd,Matt Dodd
-Central Coast Mariners FC,Mathew,,Henderson,Mathew Henderson,Matthew,,Brown,Matthew Brown
-Melbourne City FC,Marc,,Marino,Marc Marino,Michael,,Abdulahi,Michael Abdulahi
-Melbourne Victory FC,Kieran,,Markelis,Kieran Markelis,Michael,,Brown,Michael Brown
-Newcastle Jets FC,Mario,,Watson,Mario Watson,Daniel,,Brown,Daniel Brown
-Perth Glory FC,Jamie,,Jovanic,Jamie Jovanic,Jacob,,Edwards,Jacob Edwards
-Sydney FC,David,,Kisel,David Kisel,Alex,,Griffiths,Alex Griffiths
-Wellington Phoenix FC,Jiang,,Lindsay,Jiang Lindsay,Luke,,Griffiths,Luke Griffiths
-Western Sydney Wanderers FC,Nicolas,,Bouzanis,Nicolas Bouzanis,Daniel,,Baccus,Daniel Baccus
-Western United FC,Connor,,Calver,Connor Calver,Connor,,Aspropotamitis,Connor Aspropotamitis
-Los Angeles FC,Charlie,,Fernandez,Charlie Fernandez,Carlos,,Perez,Carlos Perez
-Philadelphia Union,Charlie,,Jones,Charlie Jones,Chris,,Jones,Chris Jones
-New York City FC,Alexander,,Parks,Alexander Parks,Kwame,,Mendoza,Kwame Mendoza
-Atlanta United FC,Josef,,Heath,Josef Heath,George,,Martinez,George Martinez
-Seattle Sounders FC,Charlie,,Martinez,Charlie Martinez,Michael,,Brown,Michael Brown
-Minnesota United FC,Harrison,,Metanire,Harrison Metanire,Thomas,,Ibarra,Thomas Ibarra
-San Jose Earthquakes,Joey,,Martinez,Joey Martinez,Chris,,Arce,Chris Arce
-Real Salt Lake,Jamie,,Fernandez,Jamie Fernandez,Chris,,Johnson,Chris Johnson
-FC Dallas,Joey,,Martinez,Joey Martinez,Eric,,Rodriguez,Eric Rodriguez
-LA Galaxy,Joe,,Mastroeni,Joe Mastroeni,David,,Gonzalez,David Gonzalez
-DC United,Pete,,Horton,Pete Horton,Chris,,Carroll,Chris Carroll
-New York Red Bulls,Josue,,Martinez,Josue Martinez,Chris,,Alvarez,Chris Alvarez
-Portland Timbers,Jeanderson,,,Jeanderson,Jack,,Johnson,Jack Johnson
-New England Revolution,Jose,,Jones,Jose Jones,Jose,,Brown,Jose Brown
-Toronto FC,Laurent,,Robinson,Laurent Robinson,Nick,,Edwards,Nick Edwards
-Montreal Impact,Laurent,,Taider,Laurent Taider,Eric,,Choini`ere,Eric Choini`ere
-Sporting Kansas City,Alex,,Fernandes,Alex Fernandes,Matt,,Bunbury,Matt Bunbury
-Orlando City SC,Cameron,,Paterson,Cameron Paterson,Jose,,Garcia,Jose Garcia
-Chicago Fire Soccer Club,Julio,,Martinez,Julio Martinez,David,,Johnson,David Johnson
-Houston Dynamo,Charlie,,Hairston,Charlie Hairston,Eric,,Brown,Eric Brown
-Columbus Crew SC,Kyle,,Mendes,Kyle Mendes,Chris,,Williams,Chris Williams
-Colorado Rapids,Joe,,Morales,Joe Morales,Chris,,Brown,Chris Brown
-Vancouver Whitecaps FC,Joe,,Emnes,Joe Emnes,Michael,,Davies,Michael Davies
-FC Cincinnati,Aaron,,Bahner,Aaron Bahner,Eric,,Walker,Eric Walker
-Clube de Regatas do Flamengo footballers,Dario,,,Dario,Rodrigo,,da Silva,Rodrigo da Silva
-Santos FC,Leandrinho,,Santos,Leandrinho Santos,Paulo,,Santos,Paulo Santos
-Sport Club Corinthians Paulista,Marcelinho,,Santos,Marcelinho Santos,Fabio,,Santos,Fabio Santos
-S%C3%A3o Paulo FC,Maurinho,,Santos,Maurinho Santos,Jose,,da Silva,Jose da Silva
-Sociedade Esportiva Palmeiras,Dario,,Santos,Dario Santos,Jose,,da Silva,Jose da Silva
-Sport Club Internacional,Joanderson,,Santos,Joanderson Santos,Marcelo,,da Silva,Marcelo da Silva
-Clube Atl%C3%A9tico Mineiro,Mariano,,Santos,Mariano Santos,Paulo,,Santos,Paulo Santos
-Esporte Clube Bahia,Daniel,,Souza,Daniel Souza,Rafael,,da Silva,Rafael da Silva
-Club Athletico Paranaense,Caio,,Santos,Caio Santos,Bruno,,da Silva,Bruno da Silva
-Botafogo de Futebol e Regatas,Marcinho,,Santos,Marcinho Santos,Paulo,,Santos,Paulo Santos
-Gr%C3%AAmio Foot-Ball Porto Alegrense,Marinho,,Santos,Marinho Santos,Paulo,,da Silva,Paulo da Silva
-Fortaleza Esporte Clube,Carlinhos,,Oliveira,Carlinhos Oliveira,Marcio,,Santos,Marcio Santos
-Goi%C3%A1s Esporte Clube,Jadilson,,de Sousa,Jadilson de Sousa,Rafael,,da Silva,Rafael da Silva
-Cear%C3%A1 Sporting Club,Marinho,,Silva,Marinho Silva,Tiago,,da Silva,Tiago da Silva
-CR Vasco da Gama,Carlinhos,,,Carlinhos,Paulo,,da Silva,Paulo da Silva
-Cruzeiro Esporte Clube,Joanderson,,Santos,Joanderson Santos,Rafael,,Santos,Rafael Santos
-Associa%C3%A7%C3%A3o Chapecoense de Futebol,Ronieli,,Santos,Ronieli Santos,Jo~ao,,da Silva,Jo~ao da Silva
-Fluminense FC,Dario,,Freitas,Dario Freitas,Carlos,,Santos,Carlos Santos
-Centro Sportivo Alagoano,Carlinhos,,Silva,Carlinhos Silva,Leandro,,da Silva,Leandro da Silva
-Ava%C3%AD FC,Danielzinho,,Silva,Danielzinho Silva,Paulo,,Santos,Paulo Santos
-Dundalk FC,Joe,,Marney,Joe Marney,John,,Byrne,John Byrne
-Shamrock Rovers FC,Joe,,Delaney,Joe Delaney,John,,Byrne,John Byrne
-Bohemian FC,Eoin,,Delany,Eoin Delany,John,,Byrne,John Byrne
-Derry City FC,Noel,,Kearney,Noel Kearney,John,,Kelly,John Kelly
-St Patrick%27s Athletic FC,Glen,,Marney,Glen Marney,David,,Byrne,David Byrne
-Sligo Rovers FC,Eoin,,Kearns,Eoin Kearns,John,,Kelly,John Kelly
-Cork City FC,Dave,,Delaney,Dave Delaney,Dave,,Barry,Dave Barry
-Finn Harps FC,Maurice,,McGinley,Maurice McGinley,Mark,,McLaughlin,Mark McLaughlin
-University College Dublin AFC,John,,Rooney,John Rooney,Paul,,Byrne,Paul Byrne
-Djurg%C3%A5rdens IF Fotboll,Soren,,Andersson,Soren Andersson,Stefan,,Andersson,Stefan Andersson
-AIK Fotboll,Kurt,,Andersson,Kurt Andersson,Daniel,,Andersson,Daniel Andersson
-Malm%C3%B6 FF,Johan,,Larsson,Johan Larsson,Anders,,Andersson,Anders Andersson
-BK H%C3%A4cken,Jonas,,Larsson,Jonas Larsson,Alexander,,Andersson,Alexander Andersson
-Hammarby Fotboll,Mairon,,Persson,Mairon Persson,Andreas,,Andersson,Andreas Andersson
-IFK G%C3%B6teborg,Soren,,Svensson,Soren Svensson,Erik,,Andersson,Erik Andersson
-IFK Norrk%C3%B6ping,Caio,,Eriksson,Caio Eriksson,Andreas,,Andersson,Andreas Andersson
-%C3%96rebro SK,Johan,,Bertilsson,Johan Bertilsson,Daniel,,Persson,Daniel Persson
-IF Elfsborg,Johan,,Andersson,Johan Andersson,Andreas,,Nilsson,Andreas Nilsson
-Helsingborgs IF,Martin,,Persson,Martin Persson,Andreas,,Andersson,Andreas Andersson
-%C3%96stersunds FK,Johan,,Bertilsson,Johan Bertilsson,Paul,,Morgan,Paul Morgan
-IK Sirius Fotboll,Johan,,Nilsson,Johan Nilsson,Johan,,Andersson,Johan Andersson
-Kalmar FF,Johan,,Bertilsson,Johan Bertilsson,Stefan,,Johansson,Stefan Johansson
-Falkenbergs FF,Daniel,,Karlsson,Daniel Karlsson,Daniel,,Karlsson,Daniel Karlsson
-AFC Eskilstuna,Daniel,,Eriksson,Daniel Eriksson,Daniel,,Eriksson,Daniel Eriksson
-GIF Sundsvall,Tomas,,Enarsson,Tomas Enarsson,Johan,,Andersson,Johan Andersson
-Molde FK,Jan,,Larsen,Jan Larsen,Fredrik,,Hestad,Fredrik Hestad
-Odds BK,Jan,,Jensen,Jan Jensen,Erik,,Hansen,Erik Hansen
-Rosenborg BK,Rune,,Hansen,Rune Hansen,Trond,,Hansen,Trond Hansen
-SK Brann,Frode,,Jensen,Frode Jensen,Jan,,Pedersen,Jan Pedersen
-Kristiansund BK,Simon,,Markeng,Simon Markeng,Simon,,Ulvestad,Simon Ulvestad
-V%C3%A5lerenga Fotball,Rino,,Karlsen,Rino Karlsen,Morten,,Johansen,Morten Johansen
-Viking FK,Rune,,Andersen,Rune Andersen,Bjorn,,Andersen,Bjorn Andersen
-FK Haugesund,Steinar,,Andreassen,Steinar Andreassen,Eirik,,Andersen,Eirik Andersen
-Lillestr%C3%B8m SK,Alf,,Erlandsen,Alf Erlandsen,Magnus,,Amundsen,Magnus Amundsen
-Troms%C3%B8 IL,Kim,,Andersen,Kim Andersen,Thomas,,Johansen,Thomas Johansen
-Stab%C3%A6k Fotball,Torstein,,Olsen,Torstein Olsen,Christian,,Olsen,Christian Olsen
-Mj%C3%B8ndalen IF,Vegard,,Johansen,Vegard Johansen,Stian,,Hansen,Stian Hansen
-Ranheim Fotball,Andreas,,Hansen,Andreas Hansen,Michael,,Hansen,Michael Hansen
-Str%C3%B8msgodset Toppfotball,Martin,,Hansen,Martin Hansen,Thomas,,Olsen,Thomas Olsen
-Sarpsborg 08 FF,Jorgen,,Larsen,Jorgen Larsen,Magnus,,Agger,Magnus Agger
-Club Deportivo Universidad Cat%C3%B3lica footballers,Jorge,,Pinares,Jorge Pinares,Jose,,Gonzalez,Jose Gonzalez
-Colo-Colo,Mario,,Caceres,Mario Caceres,Juan,,Gonzalez,Juan Gonzalez
-Audax Italiano,Sebastian,,Caceres,Sebastian Caceres,Carlos,,Carrasco,Carlos Carrasco
-Uni%C3%B3n La Calera,Mario,,Berrios,Mario Berrios,Francisco,,Castro,Francisco Castro
-Coquimbo Unido,Juan,,Aravena,Juan Aravena,Juan,,Lopez,Juan Lopez
-O%27Higgins FC footballers,Jorge,,Gonzalez,Jorge Gonzalez,Juan,,Gonzalez,Juan Gonzalez
-Club Deportivo Palestino,Ruben,,Meza,Ruben Meza,Juan,,Gonzalez,Juan Gonzalez
-Huachipato footballers,Juan,,Morales,Juan Morales,Juan,,Martinez,Juan Martinez
-Curic%C3%B3 Unido footballers,Mario,,Llanos,Mario Llanos,Jorge,,Diaz,Jorge Diaz
-Uni%C3%B3n Espa%C3%B1ola footballers,Cesar,,Larenas,Cesar Larenas,Juan,,Gonzalez,Juan Gonzalez
-Cobresal footballers,Jose,,Ferrando,Jose Ferrando,Juan,,Diaz,Juan Diaz
-Deportes Iquique,Mario,,Baesso,Mario Baesso,Julio,,Bustamante,Julio Bustamante
-Everton de Vi%C3%B1a del Mar,Juan,,Martinez,Juan Martinez,Jose,,Gonzalez,Jose Gonzalez
-Universidad de Chile footballers,Mayer,,Mas,Mayer Mas,Juan,,Rojas,Juan Rojas
-CD Antofagasta,Juan,,Morales,Juan Morales,Juan,,Silva,Juan Silva
-Universidad de Concepci%C3%B3n footballers,Juan,,Aravena,Juan Aravena,Juan,,Gonzalez,Juan Gonzalez
-FC Tokyo,Tatsuki,,Shinada,Tatsuki Shinada,Tatsuya,,Suzuki,Tatsuya Suzuki
-Kashima Antlers,Takeshi,,Kanazaki,Takeshi Kanazaki,Takeshi,,Santos,Takeshi Santos
-Yokohama F Marinos,Kaina,,Sato,Kaina Sato,Takashi,,Suzuki,Takashi Suzuki
-Kawasaki Frontale,Satoshi,,Uemura,Satoshi Uemura,Yusuke,,Santos,Yusuke Santos
-Sanfrecce Hiroshima,Yasuyuki,,Ishihara,Yasuyuki Ishihara,Koji,,Sato,Koji Sato
-Cerezo Osaka,Daisuke,,Koga,Daisuke Koga,Takashi,,Ito,Takashi Ito
-Hokkaido Consadole Sapporo,Yasuyoshi,,Sakai,Yasuyoshi Sakai,Ryuji,,de Oliveira,Ryuji de Oliveira
-Oita Trinita,Yuzo,,Maeda,Yuzo Maeda,Kim,,Ito,Kim Ito
-Nagoya Grampus,Yasuaki,,Kato,Yasuaki Kato,Yuki,,Sato,Yuki Sato
-Shonan Bellmare,Yu,,Toda,Yu Toda,Takuya,,Suzuki,Takuya Suzuki
-Urawa Red Diamonds,Takuya,,Ota,Takuya Ota,Takuya,,Ikeda,Takuya Ikeda
-Vissel Kobe,Yosuke,,Wada,Yosuke Wada,Daisuke,,Takahashi,Daisuke Takahashi
-Shimizu S-Pulse,Katsumi,,Wada,Katsumi Wada,Kenta,,Ito,Kenta Ito
-Gamba Osaka,Katsuhiro,,Wada,Katsuhiro Wada,Hiroki,,Yamaguchi,Hiroki Yamaguchi
-Vegalta Sendai,Kaina,,Taira,Kaina Taira,Satoshi,,Suzuki,Satoshi Suzuki
-Sagan Tosu,Kohei,,Kanai,Kohei Kanai,Kim,,Kobayashi,Kim Kobayashi
-Matsumoto Yamaga FC,Kazuya,,Maeda,Kazuya Maeda,Yuki,,Yoshida,Yuki Yoshida
-J%C3%BAbilo Iwata,Katsumi,,Ihara,Katsumi Ihara,Hiroki,,Nakamura,Hiroki Nakamura
-Guangzhou Evergrande Taobao FC,Liu,,Ning,Liu Ning,Li,,Lin,Li Lin
-Beijing Guoan FC,Zhang,,Jialiang,Zhang Jialiang,Zhang,,Wei,Zhang Wei
-Shanghai SIPG FC,Wu,,Jinghang,Wu Jinghang,Zhang,,Jiajun,Zhang Jiajun
-Shandong Luneng Taishan FC,Liu,,Xiaofeng,Liu Xiaofeng,Wang,,Wei,Wang Wei
-Jiangsu Suning FC,Ma,,Xiaoheng,Ma Xiaoheng,Zhang,,Hao,Zhang Hao
-Wuhan Zall FC,Li,,Jian,Li Jian,Wang,,Yi,Wang Yi
-Dalian Yifang FC,Yu,,Liang,Yu Liang,Wang,,Lin,Wang Lin
-Chongqing Lifan FC,Li,,Wenxiang,Li Wenxiang,Liu,,Dong,Liu Dong
-Tianjin Teda FC,Liu,,Jianping,Liu Jianping,Wang,,Yang,Wang Yang
-Henan Jianye FC,Liang,,Peng,Liang Peng,Zhang,,Hao,Zhang Hao
-Guangzhou R%26F FC,Yu,,Ming,Yu Ming,Li,,Jiaqi,Li Jiaqi
-Shanghai Shenhua FC,Xu,,Xiang,Xu Xiang,Wang,,Lin,Wang Lin
-Hebei China Fortune FC,Lu,,Ning,Lu Ning,Zhang,,Yang,Zhang Yang
-Tianjin Tianhai FC,Zhang,,Jihong,Zhang Jihong,Zhang,,Tao,Zhang Tao
-Shenzhen FC,Xu,,Liang,Xu Liang,Li,,Chao,Li Chao
-Beijing Renhe FC,Liu,,Liang,Liu Liang,Zhang,,Chen,Zhang Chen
+Country,Club,Mode_First_Name,Mode_Last_Name,Mode_Name
+England + Wales,Liverpool,John (54),Jones (16),John Jones
+England + Wales,Manchester City,David (27),Smith (9),David Smith
+England + Wales,Leicester City,John (25),Smith (12),John Smith
+England + Wales,Crystal Palace,John (31),"Smith, Taylor (9)",John Smith-Taylor
+England + Wales,Arsenal,John (32),Jones (6),John Jones
+England + Wales,Everton,John (43),Jones (13),John Jones
+England + Wales,West Ham United,George (30),X,George X
+England + Wales,Manchester United,John (53),"Jones, Williams (11)",John Jones-Williams
+England + Wales,Tottenham Hotspur,John (38),Smith (13),John Smith
+England + Wales,Sheffield United,John (41),Smith (14),John Smith
+England + Wales,Chelsea,John (28),Smith (12),John Smith
+England + Wales,Burnley,John (42),Smith (17),John Smith
+England + Wales,Southampton,George (40),Brown (11),George Brown
+England + Wales,Newcastle United,John (44),Smith (10),John Smith
+England + Wales,Bournemouth,John (27),Smith (10),John Smith
+England + Wales,Brighton & Hove Albion,Jack (33),Smith (13),Jack Smith
+England + Wales,Wolverhampton Wanderers,George (34),Jones (10),George Jones
+England + Wales,Aston Villa,John (36),"Evans, Williams (8)",John Evans-Williams
+England + Wales,Norwich City,John (26),Smith (12),John Smith
+England + Wales,Watford,Jimmy (24),Smith (10),Jimmy Smith
+England + Wales,Barnsley,John (38),Smith (11),John Smith
+England + Wales,Birmingham City,Jack (35),Smith (16),Jack Smith
+England + Wales,Blackburn Rovers,John (41),"Jones, Taylor (8)",John Jones-Taylor
+England + Wales,Brentford,John (48),Smith (17),John Smith
+England + Wales,Bristol City,John (26),Williams (12),John Williams
+England + Wales,Cardiff City,John (28),Jones (18),John Jones
+England + Wales,Charlton Athletic,John (29),Smith (8),John Smith
+England + Wales,Derby County,John (34),Smith (11),John Smith
+England + Wales,Fulham,John (28),Brown (13),John Brown
+England + Wales,Huddersfield Town,Paul (28),Smith (18),Paul Smith
+England + Wales,Hull City,George (25),Smith (10),George Smith
+England + Wales,Leeds United,"David, John (25)",Smith (10),David-John Smith
+England + Wales,Luton Town,John (28),Brown (8),John Brown
+England + Wales,Middlesbrough,John (25),Smith (9),John Smith
+England + Wales,Millwall,John (34),Smith (14),John Smith
+England + Wales,Nottingham Forest,John (37),"Brown, Jones, Smith (8)",John Brown-Jones-Smith
+England + Wales,Preston North End,John (38),"Brown, Smith (11)",John Brown-Smith
+England + Wales,Queens Park Rangers,John (25),Smith (11),John Smith
+England + Wales,Reading,John (23),Smith (9),John Smith
+England + Wales,Sheffield Wednesday,John (25),Jones (10),John Jones
+England + Wales,Stoke City,John (58),Smith (17),John Smith
+England + Wales,Swansea City,John (24),Jones (18),John Jones
+England + Wales,West Bromwich Albion,George (27),Jones (11),George Jones
+England + Wales,Wigan Athletic,John (27),"Roberts, Taylor (5)",John Roberts-Taylor
+England + Wales,Ipswich Town,David (19),Brown (6),David Brown
+England + Wales,Lincoln City,John (36),Smith (15),John Smith
+England + Wales,Blackpool,John (32),Jones (12),John Jones
+England + Wales,Coventry City,John (29),Smith (10),John Smith
+England + Wales,Wycombe Wanderers,Paul (17),Thompson (6),Paul Thompson
+England + Wales,Sunderland,John (60),Smith (10),John Smith
+England + Wales,Peterborough United,David (21),Smith (7),David Smith
+England + Wales,Burton Albion,Lee (11),Taylor (6),Lee Taylor
+England + Wales,Fleetwood Town,X,X,X X
+England + Wales,Rochdale,John (24),Jones (15),John Jones
+England + Wales,Doncaster Rovers,John (38),Jones (11),John Jones
+England + Wales,Shrewsbury Town,John (26),Jones (11),John Jones
+England + Wales,Rotherham United,John (24),Wilson (9),John Wilson
+England + Wales,Bristol Rovers,Jack (21),"Jones, Williams (12)",Jack Jones-Williams
+England + Wales,Milton Keynes Dons,David (7),"Smith, Williams (4)",David Smith-Williams
+England + Wales,Gillingham,George (42),Smith (13),George Smith
+England + Wales,Portsmouth,John (33),Smith (12),John Smith
+England + Wales,Oxford United,John (21),Smith (6),John Smith
+England + Wales,Tranmere Rovers,John (44),Jones (12),John Jones
+England + Wales,Accrington Stanley,Paul (10),X,Paul X
+England + Wales,Wimbledon,Mark (6),"Smith, Sweeney (3)",Mark Smith-Sweeney
+England + Wales,Southend United,John (25),Jones (12),John Jones
+England + Wales,Bolton Wanderers,John (28),Taylor (11),John Taylor
+England + Wales,Bury,John (45),Smith (11),John Smith
+England + Wales,Exeter City,John (29),X,John X
+England + Wales,Newport County,John (20),Jones (14),John Jones
+England + Wales,Crewe Alexandra,John (29),Jones (20),John Jones
+England + Wales,Grimsby Town,John (48),Jones (13),John Jones
+England + Wales,Swindon Town,"Paul, John (23)",Smith (15),Paul-John Smith
+England + Wales,Plymouth Argyle,John (25),Smith (13),John Smith
+England + Wales,Macclesfield Town,John (24),Smith (11),John Smith
+England + Wales,Crawley Town,"John, Josh, Scott (8)",Smith (5),John-Josh-Scott Smith
+England + Wales,Forest Green Rovers,Steve (12),Williams (6),Steve Williams
+England + Wales,Port Vale,John (53),Smith (23),John Smith
+England + Wales,Cheltenham Town,Chris (12),Jones (10),Chris Jones
+England + Wales,Bradford City,John (52),Smith (14),John Smith
+England + Wales,Colchester United,John (35),Smith (14),John Smith
+England + Wales,Cambridge United,"David, John (20)",Smith (9),David-John Smith
+England + Wales,Leyton Orient,John (28),Smith (9),John Smith
+England + Wales,Salford City,Danny (6),"Green, Norris, Redshaw (2)",Danny Green-Norris-Redshaw
+England + Wales,Northampton Town,John (32),Smith (14),John Smith
+England + Wales,Carlisle United,John (26),Smith (9),John Smith
+England + Wales,Mansfield Town,John (38),Smith (8),John Smith
+England + Wales,Morecambe,Andy (10),"Smith, Taylor (4)",Andy Smith-Taylor
+England + Wales,Walsall,John (29),Smith (12),John Smith
+England + Wales,Oldham Athletic,David (27),Taylor (10),David Taylor
+England + Wales,Stevenage,"Mark, Steve (11)",Smith (7),Mark-Steve Smith
+England + Wales,Scunthorpe United,"John, Andy (19)","Jones, Taylor (6)",John-Andy Jones-Taylor
+Spain,Atlético Madrid,José (24),"López, Diaz, Rodríguez (5)",José López-Diaz-Rodríguez
+Spain,Athletic Bilbao,José (25),García (7),José García
+Spain,Sevilla,José (18),"Silva, López (4)",José Silva-López
+Spain,Levante UD,José (20),Rodríguez (5),José Rodríguez
+Spain,Real Madrid,José (28),Fernández (7),José Fernández
+Spain,CA Osasuna,"Javier, José (11)",García (12),Javier-José García
+Spain,Deportivo Alavés,Sergio (9),García (7),Sergio García
+Spain,FC Barcelona,José (18),García (8),José García
+Spain,Granada,Antonio (12),Pérez (5),Antonio Pérez
+Spain,Valencia,José (15),Navarro (5),José Navarro
+Spain,Real Valladolid,José (24),"Fernández, García (6)",José Fernández-García
+Spain,Celta de Vigo,José (13),Fernández (6),José Fernández
+Spain,Real Sociedad,José (16),Alonso (4),José Alonso
+Spain,RCD Mallorca,Juan (12),López (7),Juan López
+Spain,Real Betis,José (16),"Fernández, Rodríguez, García (5)",José Fernández-Rodríguez-García
+Spain,Villarreal,Javier (13),González (5),Javier González
+Spain,Getafe,David (10),Diaz (5),David Diaz
+Spain,Eibar,José (19),García (7),José García
+Spain,RCD Espanyol,José (23),López (7),José López
+Spain,Leganés,Carlos (9),García (6),Carlos García
+Spain,Albacete Balompié,José (17),García (5),José García
+Spain,Alcorcón,"Carlos, David (9)",Fernández (5),Carlos-David Fernández
+Spain,Almería,José (12),"Fernández, García (4)",José Fernández-García
+Spain,Cádiz,José (17),García (10),José García
+Spain,Deportivo de La Coruña,José (15),Fernández (7),José Fernández
+Spain,Elche,José (26),Martínez (8),José Martínez
+Spain,Extremadura UD,"David, Diego, José (4)","Fernández, García (3)",David-Diego-José Fernández-García
+Spain,Fuenlabrada,X,Fernández (3),X Fernández
+Spain,Girona,"Marc, David (7)",García (4),Marc-David García
+Spain,Huesca,Ruben (8),"Fernández, González (4)",Ruben Fernández-González
+Spain,Las Palmas,Juan (9),González (6),Juan González
+Spain,Lugo,José (8),"Diaz, Rodríguez (5)",José Diaz-Rodríguez
+Spain,Málaga,"Diego, José (9)","González, López (5)",Diego-José González-López
+Spain,Mirandés,"Alex, Sergio (5)","García, González (3)",Alex-Sergio García-González
+Spain,Numancia,José (9),"Pérez, López (4)",José Pérez-López
+Spain,Real Oviedo,José (10),García (8),José García
+Spain,Ponferradina,David (9),García (9),David García
+Spain,Racing de Santander,José (17),García (10),José García
+Spain,Rayo Vallecano,José (16),García (6),José García
+Spain,Sporting de Gijón,José (13),García (10),José García
+Spain,Tenerife,José (10),García (7),José García
+Spain,Real Zaragoza,José (20),Martínez (7),José Martínez
+France,Amiens SC,Fabrice (6),Traoré (3),Fabrice Traoré
+France,Angers SCO,Stephane (7),Traoré (3),Stephane Traoré
+France,FC Girondins de Bordeaux,Andre (7),Santos (3),Andre Santos
+France,Dijon,"Florent, Frédéric, Benjamin (4)",Martin (3),Florent-Frédéric-Benjamin Martin
+France,Lille OSC,"Jean, Philippe (6)",X,Jean-Philippe X
+France,Olympique Lyonnais,Eric (7),"Kone, Mendes (3)",Eric Kone-Mendes
+France,Olympique de Marseille,Laurent (8),"Pérez, Camara, NDiaye (3)",Laurent Pérez-Camara-NDiaye
+France,FC Metz,Philippe (8),"NDiaye, Traoré (4)",Philippe NDiaye-Traoré
+France,AS Monaco,"Eric, Sébastien, Nicolas (7)",Traoré (5),Eric-Sébastien-Nicolas Traoré
+France,Montpellier HSC,Nicolas (6),Passi (3),Nicolas Passi
+France,FC Nantes,Nicolas (6),Touré (5),Nicolas Touré
+France,OGC Nice,Anthony (7),Traoré (3),Anthony Traoré
+France,Nîmes Olympique,X,X,X X
+France,Paris Saint-Germain,Stephane (7),Traoré (3),Stephane Traoré
+France,Stade de Reims,Thomas (6),"Fontaine, Sinibaldi (3)",Thomas Fontaine-Sinibaldi
+France,Stade Rennais,"Olivier, Stephane (7)","Diallo, Diarra, Traoré (3)",Olivier-Stephane Diallo-Diarra-Traoré
+France,AS Saint-Étienne,Laurent (7),Camara (3),Laurent Camara
+France,Strasbourg,"Stephane, David (7)",Santos (3),Stephane-David Santos
+France,Toulouse,"Christophe, Mathieu (6)",X,Christophe-Mathieu X
+France,Le Havre AC,Sébastien (6),"Ba, Traoré (4)",Sébastien Ba-Traoré
+France,FC Lorient,Benjamin (6),X,Benjamin X
+France,Valenciennes,David (6),X,David X
+France,FC Chambly,X,X,X X
+France,Clermont Foot,"Cedric, Romain (6)","Armand, Mendy, Moulin (2)",Cedric-Romain Armand-Mendy-Moulin
+France,Chamois Niortais,David (12),X,David X
+France,Troyes AC,David (5),Camara (4),David Camara
+France,AC Ajaccio,"Cedric, Anthony (6)","Diabaté, NDiaye (3)",Cedric-Anthony Diabaté-NDiaye
+France,Rodez AF,David (3),Sané (2),David Sané
+France,FC Sochaux-Montbéliard,Franck (6),Laurent (3),Franck Laurent
+France,AJ Auxerre,"Stephane, Frédéric (6)",Traoré (3),Stephane-Frédéric Traoré
+France,Lens,Guillaume (8),Camara (3),Guillaume Camara
+France,En Avant de Guingamp,Christophe (6),Camara (3),Christophe Camara
+France,AS Nancy,Olivier (5),X,Olivier X
+France,Stade Malherbe Caen,X,NDiaye (3),X NDiaye
+France,Grenoble Foot 38,"Laurent, Florian (5)","Coulibaly, NDiaye (3)",Laurent-Florian Coulibaly-NDiaye
+France,Le Mans,Cedric (5),Camara (3),Cedric Camara
+France,US Orléans,X,"Cissokho, Seidou (2)",X Cissokho-Seidou
+France,LB Châteauroux,Kevin (8),Traoré (3),Kevin Traoré
+France,Paris,Vincent (5),"Keita, Touré (3)",Vincent Keita-Touré
+Germany,RB Leipzig,X,Müller (3),X Müller
+Germany,FC Bayern Munich,"Hans, Thomas (9)",Müller (3),Hans-Thomas Müller
+Germany,VfL Wolfsburg,Thomas (7),Madsen (3),Thomas Madsen
+Germany,Bayer 04 Leverkusen,Markus (7),X,Markus X
+Germany,Borussia Dortmund,Thomas (7),"Schmidt, Schneider (3)",Thomas Schmidt-Schneider
+Germany,SC Freiburg,Michael (8),X,Michael X
+Germany,Eintracht Frankfurt,Thomas (11),"Lindner, Schmitt (3)",Thomas Lindner-Schmitt
+Germany,Borussia Mönchengladbach,Michael (10),Schulz (3),Michael Schulz
+Germany,TSG 1899 Hoffenheim,"Kevin, Andreas (5)",Haas (4),Kevin-Andreas Haas
+Germany,FC Schalke 04,Michael (10),X,Michael X
+Germany,1 FC Union Berlin,Daniel (7),X,Daniel X
+Germany,Fortuna Düsseldorf,"Thomas, Christian, Michael (7)",X,Thomas-Christian-Michael X
+Germany,SV Werder Bremen,Frank (6),Schmidt (3),Frank Schmidt
+Germany,1 FC Köln,X,"Müller, Rahn, Schmitz (3)",X Müller-Rahn-Schmitz
+Germany,SC Paderborn 07,Sebastian (8),Brinkmann (2),Sebastian Brinkmann
+Germany,FC Augsburg,Michael (9),Müller (4),Michael Müller
+Germany,Hertha BSC,Christian (8),Müller (5),Christian Müller
+Germany,1 FSV Mainz 05,Christian (5),Müller (4),Christian Müller
+Germany,Hamburger SV,Michael (9),Dorfel (3),Michael Dorfel
+Germany,VfB Stuttgart,Michael (11),"Forster, Müller (3)",Michael Forster-Müller
+Germany,SV Sandhausen,Daniel (6),Müller (4),Daniel Müller
+Germany,VfL Osnabrück,Daniel (9),X,Daniel X
+Germany,Arminia Bielefeld,Christian (9),"Brinkmann, Müller (2)",Christian Brinkmann-Müller
+Germany,SpVgg Greuther Fürth,"Daniel, Sebastian, Stefan (7)","Müller, Schmidt (3)",Daniel-Sebastian-Stefan Müller-Schmidt
+Germany,FC Erzgebirge Aue,Sven (6),Müller (5),Sven Müller
+Germany,SSV Jahn Regensburg,X,"Müller, Schmid (3)",X Müller-Schmid
+Germany,1 FC Nürnberg,"Thomas, Hans (8)",Müller (6),Thomas-Hans Müller
+Germany,Karlsruher SC,Michael (10),"da Silva, Müller (3)",Michael da Silva-Müller
+Germany,1 FC Heidenheim,"Robert, Michael, Andreas (4)",Schmidt (2),Robert-Michael-Andreas Schmidt
+Germany,Hannover 96,"Stefan, Michael (6)",Müller (3),Stefan-Michael Müller
+Germany,FC St Pauli,"Michael, Daniel, Christian (5)",Müller (3),Michael-Daniel-Christian Müller
+Germany,Dynamo Dresden,Thomas (9),Müller (7),Thomas Müller
+Germany,Holstein Kiel,Patrick (6),X,Patrick X
+Germany,SV Darmstadt 98,"Benjamin, Sebastian (5)","Hubner, Lense, Wagner (2)",Benjamin-Sebastian Hubner-Lense-Wagner
+Germany,VfL Bochum,Michael (14),Kramer (3),Michael Kramer
+Germany,SV Wehen Wiesbaden,Patrick (7),"Hubner, Müller (3)",Patrick Hubner-Müller
+Italy,Atalanta BC,"Andrea, Giuseppe (14)",X,Andrea-Giuseppe X
+Italy,Bologna FC 1909,Andrea (15),Ferrari (4),Andrea Ferrari
+Italy,Brescia,"Andrea, Luca (14)","Ferrari, Romano (3)",Andrea-Luca Ferrari-Romano
+Italy,Cagliari,Marco (15),X,Marco X
+Italy,ACF Fiorentina,"Giuseppe, Marco (13)","Manfredini, Orlando, Rizzo (3)",Giuseppe-Marco Manfredini-Orlando-Rizzo
+Italy,Genoa,Francesco (18),X,Francesco X
+Italy,Hellas Verona,Marco (17),Ferrari (4),Marco Ferrari
+Italy,Inter Milan,Giuseppe (25),"Colombo, Sala (4)",Giuseppe Colombo-Sala
+Italy,Juventus,Giuseppe (18),Rossi (5),Giuseppe Rossi
+Italy,SS Lazio,Roberto (14),X,Roberto X
+Italy,US Lecce,Giuseppe (14),"Di Chiara, Petrachi (3)",Giuseppe Di Chiara-Petrachi
+Italy,AC Milan,Marco (19),X,Marco X
+Italy,SSC Napoli,Roberto (14),"Esposito, Ferrara, Fontana (3)",Roberto Esposito-Ferrara-Fontana
+Italy,Parma Calcio 1913,"Marco, Alessandro (19)",Ferrari (4),Marco-Alessandro Ferrari
+Italy,AS Roma,"Marco, Paolo (16)","Conti, Ferrari (4)",Marco-Paolo Conti-Ferrari
+Italy,Sampdoria,Andrea (17),Ferrari (4),Andrea Ferrari
+Italy,SPAL,Marco (12),Vecchi (3),Marco Vecchi
+Italy,Torino,"Alessandro, Giuseppe (16)","Benedetti, López, Romano (3)",Alessandro-Giuseppe Benedetti-López-Romano
+Italy,Udinese,"Antonio, Marco (10)",Santos (5),Antonio-Marco Santos
+Italy,Ascoli Calcio 1898,Andrea (17),Moro (3),Andrea Moro
+Italy,Benevento,X,"Bianco, Dei (2)",X Bianco-Dei
+Italy,AC ChievoVerona,Marco (13),Esposito (4),Marco Esposito
+Italy,AS Cittadella,Andrea (10),"Benedetti, Rigoni (2)",Andrea Benedetti-Rigoni
+Italy,Cosenza,Andrea (7),Raimondi (2),Andrea Raimondi
+Italy,US Cremonese,Francesco (12),"Arcari, Favalli (3)",Francesco Arcari-Favalli
+Italy,FC Crotone,Giuseppe (11),Ferrari (3),Giuseppe Ferrari
+Italy,Empoli,Marco (14),X,Marco X
+Italy,Frosinone,Andrea (8),X,Andrea X
+Italy,SS Juve Stabia,Antonio (13),Esposito (2),Antonio Esposito
+Italy,AS Livorno,Andrea (15),X,Andrea X
+Italy,AC Perugia,Marco (15),"Lombardo, Rossi (3)",Marco Lombardo-Rossi
+Italy,Delfino Pescara 1936,Andrea (17),X,Andrea X
+Italy,AC Pisa 1909,Alessandro (14),X,Alessandro X
+Italy,Pordenone,Luca (5),X,Luca X
+Italy,US Salernitana 1919,Francesco (13),Rossi (3),Francesco Rossi
+Italy,Spezia,Nicola (12),X,Nicola X
+Italy,Trapani,Andrea (8),Mancosu (2),Andrea Mancosu
+Italy,Venezia,Andrea (13),"Raimondi, Rossi (3)",Andrea Raimondi-Rossi
+Italy,Virtus Entella,Simone (9),X,Simone X
+Portugal,Belenenses SAD,"Gonçalo, Andre (3)","Santos, Dias (2)",Gonçalo-Andre Santos-Dias
+Portugal,SL Benfica,José (28),"Pereira, Silva (10)",José Pereira-Silva
+Portugal,Boavista,"Pedro, João (11)",Santos (7),Pedro-João Santos
+Portugal,SC Braga,João (15),"Silva, Santos (9)",João Silva-Santos
+Portugal,Aves,Ricardo (7),"Silva, Santos, Martins (5)",Ricardo Silva-Santos-Martins
+Portugal,FC Famalicão,João (7),Lopes (5),João Lopes
+Portugal,Gil Vicente,Pedro (12),"Fernandes, Santos (6)",Pedro Fernandes-Santos
+Portugal,CS Marítimo,"Fernando, Ricardo, João (8)",da Silva (9),Fernando-Ricardo-João da Silva
+Portugal,Moreirense,João (11),Fernandes (6),João Fernandes
+Portugal,FC Paços de Ferreira,"Filipe, João (6)",da Silva (8),Filipe-João da Silva
+Portugal,Portimonense SC,João (10),Santos (7),João Santos
+Portugal,FC Porto,"Carlos, Antonio (13)",Pereira (13),Carlos-Antonio Pereira
+Portugal,Rio Ave,"Pedro, Bruno (8)",Santos (7),Pedro-Bruno Santos
+Portugal,Santa Clara,Paulo (9),Silva (8),Paulo Silva
+Portugal,Sporting CP,X,Tavares (2),X Tavares
+Portugal,Tondela,Ricardo (8),"Costa, Silva (4)",Ricardo Costa-Silva
+Portugal,Vitória SC,João (15),Silva (7),João Silva
+Portugal,Vitória,João (13),Santos (9),João Santos
+Russia,FC Krasnodar,"Aleksandr, Andrei (15)",Yermakov (3),Aleksandr-Andrei Yermakov
+Russia,FC Spartak Moscow,Aleksandr (48),Ivanov (5),Aleksandr Ivanov
+Russia,FC Rostov,Aleksandr (49),Ivanov (6),Aleksandr Ivanov
+Russia,FC Lokomotiv Moscow,Aleksandr (45),Kuznetsov (5),Aleksandr Kuznetsov
+Russia,FC Zenit Saint Petersburg,Sergei (20),Ivanov (6),Sergei Ivanov
+Russia,PFC CSKA Moscow,Sergei (33),"Ivanov, Kuznetsov (4)",Sergei Ivanov-Kuznetsov
+Russia,FC Arsenal Tula,Aleksandr (36),Kuznetsov (5),Aleksandr Kuznetsov
+Russia,FC Ural Yekaterinburg,Aleksandr (35),Morozov (3),Aleksandr Morozov
+Russia,FC Rubin Kazan,Aleksandr (28),"Akhmetzyanov, Konovalov, Vasilyev (3)",Aleksandr Akhmetzyanov-Konovalov-Vasilyev
+Russia,FC Ufa,Aleksandr (8),Vasilyev (4),Aleksandr Vasilyev
+Russia,FC Dynamo Moscow,Aleksandr (35),X,Aleksandr X
+Russia,FC Akhmat Grozny,Aleksandr (13),Dzhabrailov (3),Aleksandr Dzhabrailov
+Russia,FC Krylia Sovetov Samara,Aleksandr (41),Ivanov (4),Aleksandr Ivanov
+Russia,FC Tambov,"Aleksandr, Sergei (11)",Arkhipov (3),Aleksandr-Sergei Arkhipov
+Russia,PFC Sochi,"Nikita, Andrei (4)",Zabolotny (2),Nikita-Andrei Zabolotny
+Russia,FC Orenburg,Sergei (17),"Klimov, Kozlov (3)",Sergei Klimov-Kozlov
+Netherlands,Vitesse,Peter (5),Hofs (3),Peter Hofs
+Netherlands,Ajax,"Wim, Jan (12)",Keizer (4),Wim-Jan Keizer
+Netherlands,PSV Eindhoven,Jan (9),de Jong (5),Jan de Jong
+Netherlands,FC Twente,"Theo, Jan, Michael (5)",John (3),Theo-Jan-Michael John
+Netherlands,Sparta Rotterdam,Jan (7),"Santos, Duarte, de Nooijer (3)",Jan Santos-Duarte-de Nooijer
+Netherlands,AZ Alkmaar,X,X,X X
+Netherlands,FC Utrecht,"Erik, Jan, John (5)",de Jong (3),Erik-Jan-John de Jong
+Netherlands,Feyenoord,"Jan, Henk, John (7)",X,Jan-Henk-John X
+Netherlands,SC Heerenveen,"Michel, Martin, Daniel (4)",de Jong (3),Michel-Martin-Daniel de Jong
+Netherlands,ADO Den Haag,"Danny, John, Harry (5)",X,Danny-John-Harry X
+Netherlands,VVV-Venlo,X,Janssen (3),X Janssen
+Netherlands,Heracles Almelo,Rob (4),X,Rob X
+Netherlands,FC Groningen,Danny (5),van Dijk (5),Danny van Dijk
+Netherlands,PEC Zwolle,X,"van den Berg, Jansen (3)",X van den Berg-Jansen
+Netherlands,FC Emmen,Bas (4),"de Groot, Payne, Veldmate (2)",Bas de Groot-Payne-Veldmate
+Netherlands,Fortuna Sittard,Mark (4),Janssen (3),Mark Janssen
+Netherlands,RKC Waalwijk,Hans (5),Mulder (4),Hans Mulder
+Belgium,Standard Liège,Jonathan (7),Santos (3),Jonathan Santos
+Belgium,Club Brugge,Ivan (5),X,Ivan X
+Belgium,KV Mechelen,Anthony (4),"Claes, Martens, Pedersen (2)",Anthony Claes-Martens-Pedersen
+Belgium,Royal Excel Mouscron,Kevin (5),"Mpenza, Vandendriessche (2)",Kevin Mpenza-Vandendriessche
+Belgium,KAA Gent,Thomas (5),NDiaye (3),Thomas NDiaye
+Belgium,KRC Genk,"Marco, Kevin, Igor (3)","Gudjonsson, Peeters (3)",Marco-Kevin-Igor Gudjonsson-Peeters
+Belgium,KV Oostende,"Ibrahima, Frédéric, Laurent (3)","Coulibaly, Lukaku, Zoko (2)",Ibrahima-Frédéric-Laurent Coulibaly-Lukaku-Zoko
+Belgium,SV Zulte Waregem,"Jeremy, Frédéric (4)",X,Jeremy-Frédéric X
+Belgium,Royal Antwerp,Kevin (5),X,Kevin X
+Belgium,R Charleroi SC,Sébastien (4),X,Sébastien X
+Belgium,KV Kortrijk,Michael (4),"Claeys, Mpenza, NDiaye (2)",Michael Claeys-Mpenza-NDiaye
+Belgium,Sint-Truidense VV,Marc (4),Peeters (3),Marc Peeters
+Belgium,RSC Anderlecht,Jan (7),Martens (3),Jan Martens
+Belgium,Cercle Brugge,"Kevin, Olivier (4)",X,Kevin-Olivier X
+Belgium,KAS Eupen,"Christian, Nicolas, Mamadou (3)",Diallo (3),Christian-Nicolas-Mamadou Diallo
+Belgium,Waasland-Beveren,"Rachid, Ibrahima, Niels (3)",Milosevic (2),Rachid-Ibrahima-Niels Milosevic
+Turkey,Alanyaspor,Emre (5),Yılmaz (2),Emre Yılmaz
+Turkey,Fenerbahçe SK,Mehmet (9),Simsek (3),Mehmet Simsek
+Turkey,Denizlispor,"Ismail, Murat, Mehmet (5)","Akyuz, Kartal (3)",Ismail-Murat-Mehmet Akyuz-Kartal
+Turkey,Çaykur Rizespor,Mehmet (6),Santos (3),Mehmet Santos
+Turkey,Trabzonspor,X,"Demir, Yılmaz (4)",X Demir-Yılmaz
+Turkey,MKE Ankaragücü,Mehmet (6),"Doğan, Erdogan (3)",Mehmet Doğan-Erdogan
+Turkey,Sivasspor,Ibrahim (6),Öztürk (3),Ibrahim Öztürk
+Turkey,Beşiktaş JK,"Ali, Gökhan (7)",Özkan (3),Ali-Gökhan Özkan
+Turkey,Galatasaray SK,Emre (9),Erdem (4),Emre Erdem
+Turkey,Antalyaspor,Mehmet (5),"Arslan, Öztürk (4)",Mehmet Arslan-Öztürk
+Turkey,Gazişehir Gaziantep FK,X,Keles (2),X Keles
+Turkey,Yeni Malatyaspor,"Mustafa, Bulent, Mehmet (3)",Öztürk (3),Mustafa-Bulent-Mehmet Öztürk
+Turkey,Konyaspor,"Murat, Mehmet (5)",X,Murat-Mehmet X
+Turkey,İstanbul Başakşehir FK,"Orhan, Ibrahim, Gökhan (3)","Korkmaz, Sahin, Yılmaz (3)",Orhan-Ibrahim-Gökhan Korkmaz-Sahin-Yılmaz
+Turkey,Kayserispor,Ali (5),"Lopes, Sonmez (3)",Ali Lopes-Sonmez
+Turkey,Kasımpaşa SK,"Murat, Hakan, Andre (3)",Öztürk (3),Murat-Hakan-Andre Öztürk
+Turkey,Göztepe SK,Ali (4),Özkan (3),Ali Özkan
+Turkey,Gençlerbirliği SK,Mehmet (8),Öztürk (4),Mehmet Öztürk
+Scotland,Celtic,John (53),Miller (7),John Miller
+Scotland,Rangers,John (45),Ferguson (10),John Ferguson
+Scotland,Livingston,David (12),Miller (5),David Miller
+Scotland,Aberdeen,John (24),Smith (12),John Smith
+Scotland,Motherwell,John (32),Brown (7),John Brown
+Scotland,Kilmarnock,John (26),Smith (12),John Smith
+Scotland,Hamilton Academical,John (39),Ferguson (8),John Ferguson
+Scotland,Ross County,John (11),Smith (5),John Smith
+Scotland,Hibernian,John (43),Brown (10),John Brown
+Scotland,St Mirren,John (31),X,John X
+Scotland,Heart of Midlothian,John (27),Smith (12),John Smith
+Scotland,St Johnstone,John (26),"Robertson, Taylor (6)",John Robertson-Taylor
+Switzerland,BSC Young Boys,"Alain, Marco, Martin (4)","Burki, Sutter (3)",Alain-Marco-Martin Burki-Sutter
+Switzerland,FC Basel,"Marco, Walter (8)","Ajeti, Boumelaha, Rahmen (3)",Marco-Walter Ajeti-Boumelaha-Rahmen
+Switzerland,FC Sion,"Nicolas, Patrick (4)",X,Nicolas-Patrick X
+Switzerland,FC Thun,Marco (9),X,Marco X
+Switzerland,Servette,"Andre, Sébastien, Philippe (5)",Müller (3),Andre-Sébastien-Philippe Müller
+Switzerland,FC Lugano,Christian (7),X,Christian X
+Switzerland,FC Luzern,Peter (6),"Müller, Schwegler (3)",Peter Müller-Schwegler
+Switzerland,FC St Gallen,Marco (8),Sutter (3),Marco Sutter
+Switzerland,Neuchâtel Xamax FCS,X,X,X X
+Switzerland,FC Zürich,Mario (5),Rodríguez (3),Mario Rodríguez
+Greece,PAOK,Dimitris (15),X,Dimitris X
+Greece,Xanthi,"Nikos, Christos, Dimitris (5)","García, Tomic (2)",Nikos-Christos-Dimitris García-Tomic
+Greece,Olympiacos,Giorgos (12),Papadopoulos (5),Giorgos Papadopoulos
+Greece,OFI Crete,Nikos (11),X,Nikos X
+Greece,AEK Athens,Christos (12),Vlachos (4),Christos Vlachos
+Greece,Atromitos,"Christos, Dimitris (7)",Papadopoulos (3),Christos-Dimitris Papadopoulos
+Greece,Aris Thessaloniki,Nikos (12),Papadopoulos (5),Nikos Papadopoulos
+Greece,Panathinaikos,Nikos (17),X,Nikos X
+Greece,Asteras Tripoli,Christos (6),Fernández (4),Christos Fernández
+Greece,Panetolikos,Giorgos (11),X,Giorgos X
+Greece,Panionios,Dimitris (14),X,Dimitris X
+Greece,Lamia,Dimitris (3),X,Dimitris X
+Denmark,FC Midtjylland,"Jesper, Rasmus (5)",Poulsen (5),Jesper-Rasmus Poulsen
+Denmark,FC Copenhagen,Thomas (10),Nielsen (8),Thomas Nielsen
+Denmark,AaB,Thomas (6),"Andersen, Nielsen (4)",Thomas Andersen-Nielsen
+Denmark,FC Nordsjælland,Andreas (7),"Nielsen, Jensen, Rasmussen (5)",Andreas Nielsen-Jensen-Rasmussen
+Denmark,Brøndby IF,Martin (9),Jensen (6),Martin Jensen
+Denmark,Aarhus,Morten (7),Nielsen (6),Morten Nielsen
+Denmark,Odense Boldklub,Michael (7),Nielsen (9),Michael Nielsen
+Denmark,SønderjyskE,"Mads, Henrik, Martin (4)",X,Mads-Henrik-Martin X
+Denmark,Lyngby Boldklub,Thomas (9),Nielsen (11),Thomas Nielsen
+Denmark,AC Horsens,Mads (6),Sørensen (3),Mads Sørensen
+Denmark,Randers,Mikkel (7),"Jensen, Hansen, Pedersen (4)",Mikkel Jensen-Hansen-Pedersen
+Denmark,Hobro IK,"Mathias, Jesper, Mads (4)","Pedersen, Gronning, Moller (2)",Mathias-Jesper-Mads Pedersen-Gronning-Moller
+Denmark,Silkeborg IF,Peter (6),Hansen (4),Peter Hansen
+Ukraine,FC Shakhtar Donetsk,Serhiy (28),Shevchuk (3),Serhiy Shevchuk
+Ukraine,FC Desna Chernihiv,Andriy (12),X,Andriy X
+Ukraine,FC Zorya Luhansk,Oleksandr (21),Zhuravlyov (3),Oleksandr Zhuravlyov
+Ukraine,FC Oleksandriya,Serhiy (10),"Bohatyr, Bondarenko, Ivashchenko (2)",Serhiy Bohatyr-Bondarenko-Ivashchenko
+Ukraine,FC Dynamo Kyiv,Oleksandr (30),Moroz (3),Oleksandr Moroz
+Ukraine,SC Dnipro-1,Oleksandr (5),X,Oleksandr X
+Ukraine,FC Vorskla Poltava,Serhiy (23),X,Serhiy X
+Ukraine,FC Kolos Kovalivka,Oleksandr (7),X,Oleksandr X
+Ukraine,FC Mariupol,Oleksandr (25),X,Oleksandr X
+Ukraine,FC Lviv,Serhiy (9),Mostovyi (3),Serhiy Mostovyi
+Ukraine,FC Karpaty Lviv,Andriy (22),X,Andriy X
+Ukraine,FC Olimpik Donetsk,Serhiy (12),"Oliynyk, Pasich (2)",Serhiy Oliynyk-Pasich
+Argentina,San Lorenzo,José (20),González (6),José González
+Argentina,Boca Juniors,Juan (26),González (7),Juan González
+Argentina,Talleres de Córdoba,Juan (10),"Bustos, Diaz, Silva (4)",Juan Bustos-Diaz-Silva
+Argentina,Atlético Lanús,Diego (13),Diaz (7),Diego Diaz
+Argentina,Newell's Old Boys,Juan (19),Rodríguez (6),Juan Rodríguez
+Argentina,Arsenal de Sarandí,Juan (13),González (7),Juan González
+Argentina,Rosario Central,José (19),González (10),José González
+Argentina,Argentinos Juniors,Juan (20),Rodríguez (6),Juan Rodríguez
+Argentina,River Plate,Juan (33),"Fernández, Martínez (8)",Juan Fernández-Martínez
+Argentina,Atlético Vélez Sarsfield,Juan (15),Dominguez (6),Juan Dominguez
+Argentina,Estudiantes de La Plata,Juan (26),"Fernández, González (7)",Juan Fernández-González
+Argentina,Atlético Independiente,Carlos (19),"Martínez, Rodríguez (6)",Carlos Martínez-Rodríguez
+Argentina,Racing Club de Avellaneda,Juan (23),González (6),Juan González
+Argentina,Atlético Tucumán,Cristian (10),García (3),Cristian García
+Argentina,Huracán,Juan (14),Diaz (5),Juan Diaz
+Argentina,Central Córdoba,"Pablo, Nicolas (3)",Rodríguez (3),Pablo-Nicolas Rodríguez
+Argentina,Aldosivi,Juan (8),Martínez (4),Juan Martínez
+Argentina,Banfield,Nicolas (12),X,Nicolas X
+Argentina,Unión de Santa Fe,Matias (10),"García, Martínez (4)",Matias García-Martínez
+Argentina,Colón,Lorena (2),González (2),Lorena González
+Argentina,Defensa y Justicia,Juan (12),Fernández (6),Juan Fernández
+Argentina,Godoy Cruz,Diego (11),Ramírez (6),Diego Ramírez
+Argentina,Gimnasia de La Plata,Juan (17),Fernández (5),Juan Fernández
+Mexico,Querétaro,"Diego, Luis (11)",X,Diego-Luis X
+Mexico,Santos Laguna,José (10),Rodríguez (7),José Rodríguez
+Mexico,América,"Carlos, Luis (13)",Sánchez (9),Carlos-Luis Sánchez
+Mexico,Necaxa,"José, Carlos (11)",Hernández (8),José-Carlos Hernández
+Mexico,Tigres UANL,Carlos (10),Hernández (6),Carlos Hernández
+Mexico,Atlas,José (15),Torres (7),José Torres
+Mexico,León,José (10),"González, Martínez (6)",José González-Martínez
+Mexico,Monterrey,Juan (11),X,Juan X
+Mexico,Universidad Nacional,"José, Luis (8)","López, Castro, Ramírez (5)",José-Luis López-Castro-Ramírez
+Mexico,Atlético San Luis,Diego (4),Castro (3),Diego Castro
+Mexico,Cruz Azul,Carlos (15),Gutiérrez (6),Carlos Gutiérrez
+Mexico,Tijuana,Juan (9),García (4),Juan García
+Mexico,Monarcas Morelia,Carlos (15),González (6),Carlos González
+Mexico,Pachuca,Juan (10),"Hernández, Rodríguez (6)",Juan Hernández-Rodríguez
+Mexico,Guadalajara,José (16),X,José X
+Mexico,FC Juárez,"Alejandro, Juan (2)",Castro (2),Alejandro-Juan Castro
+Mexico,Puebla,Juan (17),Hernández (9),Juan Hernández
+Mexico,Deportivo Toluca,Carlos (11),García (5),Carlos García
+Australia,Veracruz,José (16),García (8),José García
+Australia,Adelaide United,Michael (6),Griffiths (3),Michael Griffiths
+Australia,Brisbane Roar,Matt (4),X,Matt X
+Australia,Central Coast Mariners,"Matthew, Tom (6)",X,Matthew-Tom X
+Australia,Melbourne City,Michael (6),X,Michael X
+Australia,Melbourne Victory,Michael (5),Brown (2),Michael Brown
+Australia,Newcastle Jets,Daniel (5),"Brown, Griffiths (3)",Daniel Brown-Griffiths
+Australia,Perth Glory,Jacob (5),Edwards (3),Jacob Edwards
+Australia,Sydney,Alex (5),"Griffiths, Triantis (2)",Alex Griffiths-Triantis
+Australia,Wellington Phoenix,Luke (4),"Griffiths, Smith (2)",Luke Griffiths-Smith
+Australia,Western Sydney Wanderers,Daniel (5),Baccus (2),Daniel Baccus
+Australia,Western United,Connor (2),X,Connor X
+United States + Canada,Los Angeles FC,"Carlos, Diego (2)",Pérez (3),Carlos-Diego Pérez
+United States + Canada,Philadelphia Union,"Chris, Brian (5)",Jones (3),Chris-Brian Jones
+United States + Canada,New York City,X,Mendoza (2),X Mendoza
+United States + Canada,Atlanta United,"George, Andrew, Chris (2)",Martínez (2),George-Andrew-Chris Martínez
+United States + Canada,Seattle Sounders,Michael (3),X,Michael X
+United States + Canada,Minnesota United,"Thomas, Sam, Kevin (2)",Ibarra (2),Thomas-Sam-Kevin Ibarra
+United States + Canada,San Jose Earthquakes,Chris (7),X,Chris X
+United States + Canada,Real Salt Lake,Chris (8),"Johnson, Martínez (3)",Chris Johnson-Martínez
+United States + Canada,FC Dallas,X,Rodríguez (5),X Rodríguez
+United States + Canada,LA Galaxy,"David, Brian (7)",González (4),David-Brian González
+United States + Canada,DC United,Chris (8),Carroll (3),Chris Carroll
+United States + Canada,New York Red Bulls,"Chris, Mike (9)","Álvarez, Hernández, Lewis (3)",Chris-Mike Álvarez-Hernández-Lewis
+United States + Canada,Portland Timbers,X,Johnson (3),X Johnson
+United States + Canada,New England Revolution,José (7),"Brown, Smith (3)",José Brown-Smith
+United States + Canada,Toronto,Nick (5),X,Nick X
+United States + Canada,Montreal Impact,Eric (3),"Choinière, González (2)",Eric Choinière-González
+United States + Canada,Sporting Kansas City,"Matt, Chris, Kevin (6)",X,Matt-Chris-Kevin X
+United States + Canada,Orlando City SC,X,"García, Sané (2)",X García-Sané
+United States + Canada,Chicago Fire,David (9),Johnson (5),David Johnson
+United States + Canada,Houston Dynamo,"Eric, Chris (4)",Brown (3),Eric-Chris Brown
+United States + Canada,Columbus Crew SC,"Chris, Brian, Matt (7)",Williams (5),Chris-Brian-Matt Williams
+United States + Canada,Colorado Rapids,"Chris, Matt (8)",Brown (4),Chris-Matt Brown
+United States + Canada,Vancouver Whitecaps,"Michael, David (3)",Davies (2),Michael-David Davies
+United States + Canada,FC Cincinnati,X,Walker (2),X Walker
+Brazil,Flamengo,Rodrigo (12),da Silva (21),Rodrigo da Silva
+Brazil,Santos,Paulo (12),Santos (21),Paulo Santos
+Brazil,Corinthians,Fabio (10),Santos (17),Fabio Santos
+Brazil,São Paulo,José (14),da Silva (17),José da Silva
+Brazil,Palmeiras,José (15),da Silva (23),José da Silva
+Brazil,Internacional,Marcelo (12),da Silva (24),Marcelo da Silva
+Brazil,Atlético Mineiro,Paulo (12),Santos (17),Paulo Santos
+Brazil,Bahia,Rafael (12),da Silva (16),Rafael da Silva
+Brazil,Athletico Paranaense,Bruno (14),da Silva (29),Bruno da Silva
+Brazil,Botafogo,Paulo (13),Santos (22),Paulo Santos
+Brazil,Grêmio,Paulo (14),"da Silva, Santos (18)",Paulo da Silva-Santos
+Brazil,Fortaleza,Marcio (7),"Santos, da Silva (11)",Marcio Santos-da Silva
+Brazil,Goiás,Rafael (10),"da Silva, Silva (13)",Rafael da Silva-Silva
+Brazil,Ceará,"Tiago, Rafael (7)",da Silva (22),Tiago-Rafael da Silva
+Brazil,CR Vasco da Gama,Paulo (14),da Silva (19),Paulo da Silva
+Brazil,Cruzeiro,"Rafael, José (10)",Santos (17),Rafael-José Santos
+Brazil, Chapecoense,"João, Rafael (6)",da Silva (10),João-Rafael da Silva
+Brazil,Fluminense,Carlos (10),Santos (17),Carlos Santos
+Brazil,Centro Sportivo Alagoano,Leandro (3),da Silva (6),Leandro da Silva
+Brazil,Avaí,Paulo (9),Santos (15),Paulo Santos
+Ireland,Dundalk,John (13),Byrne (7),John Byrne
+Ireland,Shamrock Rovers,John (16),Byrne (10),John Byrne
+Ireland,Bohemian,John (13),Byrne (11),John Byrne
+Ireland,Derry City,"John, Paul (9)",Kelly (5),John-Paul Kelly
+Ireland,St Patrick's Athletic,David (10),Byrne (9),David Byrne
+Ireland,Sligo Rovers,John (8),"Kelly, Morrison (3)",John Kelly-Morrison
+Ireland,Cork City,"Dave, Alan (6)",X,Dave-Alan X
+Ireland,Finn Harps,Mark (6),McLaughlin (3),Mark McLaughlin
+Ireland,University College Dublin,Paul (5),Byrne (5),Paul Byrne
+Sweden,Djurgårdens IF,Stefan (10),Andersson (13),Stefan Andersson
+Sweden,AIK,Daniel (10),Andersson (7),Daniel Andersson
+Sweden,Malmö FF,Anders (9),"Andersson, Nilsson (18)",Anders Andersson-Nilsson
+Sweden,BK Häcken,Alexander (5),"Andersson, Hysen (3)",Alexander Andersson-Hysen
+Sweden,Hammarby,Andreas (5),Andersson (5),Andreas Andersson
+Sweden,IFK Göteborg,Erik (7),"Andersson, Svensson (7)",Erik Andersson-Svensson
+Sweden,IFK Norrköping,Andreas (7),"Andersson, Johansson (4)",Andreas Andersson-Johansson
+Sweden,Örebro SK,Daniel (6),X,Daniel X
+Sweden,IF Elfsborg,"Andreas, Jesper, Viktor (4)",Nilsson (4),Andreas-Jesper-Viktor Nilsson
+Sweden,Helsingborgs IF,Andreas (6),Andersson (5),Andreas Andersson
+Sweden,Östersunds FK,Paul (3),Morgan (2),Paul Morgan
+Sweden,IK Sirius,Johan (4),X,Johan X
+Sweden,Kalmar FF,X,Johansson (4),X Johansson
+Sweden,Falkenbergs FF,X,Karlsson (3),X Karlsson
+Sweden,Eskilstuna,Daniel (5),Eriksson (3),Daniel Eriksson
+Sweden,GIF Sundsvall,"Johan, David (4)",X,Johan-David X
+Norway,Molde FK,Fredrik (7),Hestad (5),Fredrik Hestad
+Norway,Odds BK,"Erik, Fredrik (4)",X,Erik-Fredrik X
+Norway,Rosenborg BK,Trond (6),Hansen (8),Trond Hansen
+Norway,SK Brann,Jan (5),Pedersen (5),Jan Pedersen
+Norway,Kristiansund BK,"Simon, Andreas (2)",Ulvestad (2),Simon-Andreas Ulvestad
+Norway,Vålerenga Fotball,X,Johansen (5),X Johansen
+Norway,Viking FK,Bjorn (6),Andersen (4),Bjorn Andersen
+Norway,FK Haugesund,"Eirik, Morten, Kevin (3)",X,Eirik-Morten-Kevin X
+Norway,Lillestrøm SK,X,X,X X
+Norway,Tromsø IL,Thomas (6),"Johansen, Nilsen, Pedersen (5)",Thomas Johansen-Nilsen-Pedersen
+Norway,Stabæk Fotball,"Christian, Morten (5)",Olsen (4),Christian-Morten Olsen
+Norway,Mjøndalen IF,Stian (3),Hansen (4),Stian Hansen
+Norway,Ranheim Fotball,Michael (3),Hansen (3),Michael Hansen
+Norway,Strømsgodset Toppfotball,Thomas (8),Olsen (5),Thomas Olsen
+Norway,Sarpsborg 08 FF,X,X,X X
+Chile,Universidad Católica,José (12),González (7),José González
+Chile,Colo-Colo,Juan (17),González (12),Juan González
+Chile,Audax Italiano,Carlos (12),X,Carlos X
+Chile,Unión La Calera,"Francisco, Matias, Rodrigo (6)",X,Francisco-Matias-Rodrigo X
+Chile,Coquimbo Unido,Juan (15),X,Juan X
+Chile,O'Higgins,Juan (12),González (8),Juan González
+Chile,Deportivo Palestino,"Juan, Luis (11)",González (8),Juan-Luis González
+Chile,Huachipato,"Juan, Carlos, José (9)",Martínez (4),Juan-Carlos-José Martínez
+Chile,Curicó Unido,"Jorge, Sebastian (7)","Diaz, Mu~noz (3)",Jorge-Sebastian Diaz-Mu~noz
+Chile,Unión Española,Juan (14),González (6),Juan González
+Chile,Cobresal,Juan (13),Diaz (4),Juan Diaz
+Chile,Deportes Iquique,"Julio, Luis, Nicolas (3)",X,Julio-Luis-Nicolas X
+Chile,Everton de Viña del Mar,José (13),González (7),José González
+Chile,Universidad de Chile,Juan (16),Rojas (5),Juan Rojas
+Chile,Antofagasta,Juan (10),Silva (3),Juan Silva
+Chile,Universidad de Concepción,Juan (8),González (5),Juan González
+Japan,FC Tokyo,"Tatsuya, Ryoichi, Takuya (4)",Suzuki (7),Tatsuya-Ryoichi-Takuya Suzuki
+Japan,Kashima Antlers,X,"Santos, Suzuki (4)",X Santos-Suzuki
+Japan,Yokohama F Marinos,"Takashi, Daisuke, Takuya (5)",Suzuki (6),Takashi-Daisuke-Takuya Suzuki
+Japan,Kawasaki Frontale,Yusuke (5),Santos (5),Yusuke Santos
+Japan,Sanfrecce Hiroshima,Koji (6),Sato (5),Koji Sato
+Japan,Cerezo Osaka,Takashi (7),"Ito, Suzuki, Takeda (4)",Takashi Ito-Suzuki-Takeda
+Japan,Hokkaido Consadole Sapporo,Ryuji (5),de Oliveira (4),Ryuji de Oliveira
+Japan,Oita Trinita,Kim (7),X,Kim X
+Japan,Nagoya Grampus,Yuki (6),Sato (5),Yuki Sato
+Japan,Shonan Bellmare,Takuya (6),Suzuki (9),Takuya Suzuki
+Japan,Urawa Red Diamonds,Takuya (7),X,Takuya X
+Japan,Vissel Kobe,X,"Takahashi, Tanaka (4)",X Takahashi-Tanaka
+Japan,Shimizu S-Pulse,"Kenta, Yasuhiro (4)","Ito, Matsubara, Santos (4)",Kenta-Yasuhiro Ito-Matsubara-Santos
+Japan,Gamba Osaka,Hiroki (5),Yamaguchi (4),Hiroki Yamaguchi
+Japan,Vegalta Sendai,Satoshi (5),Suzuki (5),Satoshi Suzuki
+Japan,Sagan Tosu,Kim (9),"Kobayashi, Takahashi, Tanaka (4)",Kim Kobayashi-Takahashi-Tanaka
+Japan,Matsumoto Yamaga,Yuki (6),Yoshida (4),Yuki Yoshida
+Japan,Júbilo Iwata,"Hiroki, Daisuke (4)","Nakamura, Yamamoto (4)",Hiroki-Daisuke Nakamura-Yamamoto
+China,Guangzhou Evergrande,Li (12),X,Li X
+China,Beijing Guoan,Zhang (16),X,Zhang X
+China,Shanghai SIPG,Zhang (7),X,Zhang X
+China,Shandong Luneng Taishan,Wang (11),Wei (4),Wang Wei
+China,Jiangsu Suning,Zhang (8),Hao (4),Zhang Hao
+China,Wuhan Zall,Wang (8),Yi (3),Wang Yi
+China,Dalian Yifang,Wang (9),"Lin, Peng, Ting (2)",Wang Lin-Peng-Ting
+China,Chongqing Lifan,"Liu, Wang, Zhang (6)",X,Liu-Wang-Zhang X
+China,Tianjin Teda,Wang (7),Yang (4),Wang Yang
+China,Henan Jianye,Zhang (8),X,Zhang X
+China,Guangzhou R&F,"Li, Zhang (9)",Jiaqi (3),Li-Zhang Jiaqi
+China,Shanghai Shenhua,Wang (12),Lin (4),Wang Lin
+China,Hebei China Fortune,Zhang (8),Yang (3),Zhang Yang
+China,Tianjin Tianhai,Zhang (8),"Tao, Cheng (2)",Zhang Tao-Cheng
+China,Shenzhen,Li (16),"Chao, Feng, Xin (3)",Li Chao-Feng-Xin
+China,Beijing Renhe,Zhang (9),"Chen, Peng (4)",Zhang Chen-Peng
