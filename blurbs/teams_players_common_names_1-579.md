@@ -524,11 +524,11 @@
 |[](#sprite1-p272) Atlas            |José (15)           |Torres (7)                 |José Torres                    |
 |[](#sprite1-p372) León             |José (10)           |González, Martínez (6)     |José González-Martínez         |
 |[](#sprite1-p161) Monterrey        |Juan (11)           |X                          |Juan X                         |
-|Universidad Nacional               |José, Luis (8)      |López, Castro, Ramírez (5) |José-Luis López-Castro-Ramírez |
+|[](#sprite1-p137) Pumas UNAM       |José, Luis (8)      |López, Castro, Ramírez (5) |José-Luis López-Castro-Ramírez |
 |[](#sprite5-p38) Atlético San Luis |Diego (4)           |Castro (3)                 |Diego Castro                   |
 |[](#sprite1-p111) Cruz Azul        |Carlos (15)         |Gutiérrez (6)              |Carlos Gutiérrez               |
 |[](#sprite1-p150) Tijuana          |Juan (9)            |García (4)                 |Juan García                    |
-|[](#sprite1-p257) Monarcas Morelia |Carlos (15)         |González (6)               |Carlos González                |
+|[](#sprite1-p257) Morelia (rip) :( |Carlos (15)         |González (6)               |Carlos González                |
 |[](#sprite2-p56) Pachuca           |Juan (10)           |Hernández, Rodríguez (6)   |Juan Hernández-Rodríguez       |
 |[](#sprite1-p47) Guadalajara       |José (16)           |X                          |José X                         |
 |[](#sprite5-p155) FC Juárez        |Alejandro, Juan (2) |Castro (2)                 |Alejandro-Juan Castro          |

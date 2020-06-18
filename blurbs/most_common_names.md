@@ -16,9 +16,7 @@ I encourage anyone whose club is not listed in this post to peruse through that 
 
 ---
 
-#[](#sprite6-p222) England + [](#sprite6-p224) Wales
-
-# [](#sprite6-p222) England + Wales
+# [](#sprite6-p222) England + [](#sprite6-p224) Wales
 
 |Club                                     |First Name       |Last Name             |Name                  |
 |:----------------------------------------|:---------------------|:--------------------------|:--------------------------|
@@ -219,7 +217,7 @@ I encourage anyone whose club is not listed in this post to peruse through that 
 
 ##### [Full List & Discussion on /r/ScottishFootball]()
 
-# [](#sprite6-p184) United States + Canada
+# [](#sprite6-p184) United States + [](#sprite6-p31) Canada
 
 |Club                                    |First Name           |Last Name                |Name                          |
 |:---------------------------------------|:-------------------------|:-----------------------------|:----------------------------------|
@@ -309,7 +307,7 @@ I encourage anyone whose club is not listed in this post to peruse through that 
 |[](#sprite1-p425) Atlético Independiente    |Carlos (19)        |Martínez, Rodríguez (6) |Carlos Martínez-Rodríguez |
 |[](#sprite1-p402) Racing Club de Avellaneda |Juan (23)          |González (6)            |Juan González             |
 
-# [](#sprite6-p7) Mexico
+# [](#sprite6-p112) Mexico
 
 |Club                                        |First Name    |Last Name          |Name                 |
 |:-------------------------------------------|:------------------|:-----------------------|:-------------------------|
@@ -318,6 +316,7 @@ I encourage anyone whose club is not listed in this post to peruse through that 
 |[](#sprite1-p161) Monterrey        |Juan (11)           |X                          |Juan X                         |
 |[](#sprite1-p111) Cruz Azul        |Carlos (15)         |Gutiérrez (6)              |Carlos Gutiérrez               |
 |[](#sprite1-p47) Guadalajara       |José (16)           |X                          |José X                         |
+|[](#sprite1-p137) Pumas UNAM       |José, Luis (8)      |López, Castro, Ramírez (5) |José-Luis López-Castro-Ramírez |
 
 ##### [Full List & Discussion on /r/LigaMX]()
 
@@ -329,7 +328,7 @@ I encourage anyone whose club is not listed in this post to peruse through that 
 * With 33 Juans, **River Plate** are officially the club with the most Juans in the world.
 * **Port Vale** are officially the Smithiest club in the world, with 23 men of that name having played for the club. The Jonesiest club in the world are **Crewe Alexandra**, with 20 Joneses.
 * **Huddersfield Town** are the only Paul club in the top two English divisions.
-* It's only fitting that the most common name in Bayern Munich's history is (Hans-)Thomas Müller. However, the club with the most Müllers in the top two German divisions is actually **Dynamo Dresden** (7) - and their most common name is also Thomas Müller!
+* It's only fitting that the most common name in **Bayern Munich**'s history is (Hans-)Thomas Müller. However, the club with the most Müllers in the top two German divisions is actually **Dynamo Dresden** (7) - and their most common name is also Thomas Müller!
 * Most of the most common French surnames are of African origin - particularly Traoré, Touré, and Camara. A more surprising one is Santos, which is the most common surname of **Bordeaux** and **Strasbourg**.
 * Though [their fans probably winced at the name](https://www.theguardian.com/football/blog/2013/oct/21/serie-a-fiorentina-juventus-giuseppe-rossi), Giuseppe Rossi turns out to be the most common name in **Juventus**'s history.
 * Italian and German clubs seem to be (perhaps surprisingly) quite heterogeneous in terms of footballing names, with numbers of last name duplicates not exceeding 5 - an extremely low number compared to those of England and even Spain.
