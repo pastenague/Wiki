@@ -8,7 +8,7 @@ Back in September, I had a random idea about figuring out the most common player
 
 I used Wikipedia's API (through the [`WikipediR` R package](https://rdrr.io/cran/WikipediR/)) to extract the names of every player with a Wikipedia page that belonged to the category "X football players" or "X footballers" for a given club X. I did this extraction back in September, so all this data is only accurate as of September 2019 and does not account for any 2019-20 winter transfers. I compiled the list of players for every club, and then used the [`humaniformat` R package](https://rdrr.io/cran/humaniformat/) to "intelligently" split every player name into first and last names. Finally, I calculated the modes among the lists of first and last names of the players for each club. I have posted the code in a [Github repository](https://github.com/pastenague/Wiki) in case anyone is interested.
 
-The following tables encompass as many teams from as many countries/leagues as I could fit with a reasonable length. The full list is available in the Google Sheets spreadsheet listed at the top of this post. The full list of data encompasses each of the countries below, as well as some others, for a total of 579 clubs across the top flights of 26 countries (England + Wales includes League One and League Two teams as well).
+The following tables encompass as many teams from as many countries/leagues as I could fit with a reasonable length. The full list is available in the Google Sheets spreadsheet listed at the top of this post. The full list of data encompasses each of the countries below, as well as some others including China, Japan, and some Scandinavian countries), for a total of 579 clubs across the top or top two divisions of 26 countries (England + Wales includes League One and League Two teams as well).
 
 I encourage anyone whose club is not listed in this post to peruse through that spreadsheet, as you will hopefully find it there. In addition, I have listed links to separate discussions on for some of the countries whose full list is not displayed in this post. Finally, I apologize if the names of any club are listed incorrectly - I had to do some processing to condense their names from the "official" name (which the Wikipedia pages are often named for) to their common names. Enjoy!
 
@@ -174,7 +174,9 @@ I encourage anyone whose club is not listed in this post to peruse through that 
 |Club                                   |First Name             |Last Name             |Name                      |
 |:--------------------------------------|:---------------------------|:--------------------------|:------------------------------|
 |[](#sprite1-p26) SL Benfica            |José (28)                   |Pereira, Silva (10)        |José Pereira-Silva             |
-|[](#sprite1-p342) SC Braga             |João (15)                   |Silva, Santos (9)          |João Silva-Santos              | |[](#sprite1-p37) FC Porto              |Carlos, Antonio (13)        |Pereira (13)               |Carlos-Antonio Pereira         | |[](#sprite1-p52) Sporting CP           |X                           |Tavares (2)                |X Tavares                      |
+|[](#sprite1-p342) SC Braga             |João (15)                   |Silva, Santos (9)          |João Silva-Santos              |
+|[](#sprite1-p37) FC Porto              |Carlos, Antonio (13)        |Pereira (13)               |Carlos-Antonio Pereira         |
+|[](#sprite1-p52) Sporting CP           |X                           |Tavares (2)                |X Tavares                      |
 
 ##### [Full List & Discussion on /r/PrimeiraLiga]()
 
@@ -307,7 +309,7 @@ I encourage anyone whose club is not listed in this post to peruse through that 
 |[](#sprite1-p425) Atlético Independiente    |Carlos (19)        |Martínez, Rodríguez (6) |Carlos Martínez-Rodríguez |
 |[](#sprite1-p402) Racing Club de Avellaneda |Juan (23)          |González (6)            |Juan González             |
 
-# [](#sprite6-p7) Argentina
+# [](#sprite6-p7) Mexico
 
 |Club                                        |First Name    |Last Name          |Name                 |
 |:-------------------------------------------|:------------------|:-----------------------|:-------------------------|
@@ -323,5 +325,12 @@ I encourage anyone whose club is not listed in this post to peruse through that 
 
 # Insights
 
-* With 60 Johns, *Sunderland* are officially the club with the most Johns in the world, beating Stoke City (58), Liverpool (54), and Manchester United and Port Vale (53).
-* *Port Vale* are officially the Smithiest club in the world, with 23 men of that name having played for the club. The Jonesiest club in the world are *Crewe Alexandra*, with 20 Joneses.
+* With 60 Johns, **Sunderland** are officially the club with the most Johns in the world, beating Stoke City (58), Liverpool (54), and Manchester United and Port Vale (53) to claim the title.
+* With 33 Juans, **River Plate** are officially the club with the most Juans in the world.
+* **Port Vale** are officially the Smithiest club in the world, with 23 men of that name having played for the club. The Jonesiest club in the world are **Crewe Alexandra**, with 20 Joneses.
+* **Huddersfield Town** are the only Paul club in the top two English divisions.
+* It's only fitting that the most common name in Bayern Munich's history is (Hans-)Thomas Müller. However, the club with the most Müllers in the top two German divisions is actually **Dynamo Dresden** (7) - and their most common name is also Thomas Müller!
+* Most of the most common French surnames are of African origin - particularly Traoré, Touré, and Camara. A more surprising one is Santos, which is the most common surname of **Bordeaux** and **Strasbourg**.
+* Though [their fans probably winced at the name](https://www.theguardian.com/football/blog/2013/oct/21/serie-a-fiorentina-juventus-giuseppe-rossi), Giuseppe Rossi turns out to be the most common name in **Juventus**'s history.
+* Italian and German clubs seem to be (perhaps surprisingly) quite heterogeneous in terms of footballing names, with numbers of last name duplicates not exceeding 5 - an extremely low number compared to those of England and even Spain.
+* Brazil is filled with Santoses and da Silvas. All 21 Brazilian clubs analysed had one of those two surnames as their most common surnames.
