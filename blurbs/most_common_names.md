@@ -4,13 +4,11 @@
 
 # Introduction
 
-Back in September, I had a random idea about figuring out the most common player names for a given club. Now at home I had some time to resurrect and make that idea a reality.
+Back in September 2019, I had a random idea about figuring out the most common player names for a given club. During the lockdown, I had some time to make that idea a reality. I used Wikipedia's API (through the [`WikipediR` R package](https://rdrr.io/cran/WikipediR/)) to extract the names of every player with a Wikipedia page that belonged to the category "X football players" or "X footballers" for a given club X. I did this extraction back in September 2019, so all this data is only accurate as of September 2019 and does not account for any transfers since then. I compiled the list of players for every club, and then used the [`humaniformat` R package](https://rdrr.io/cran/humaniformat/) to "intelligently" split every player name into first and last names. Finally, I calculated the modes among the lists of first and last names of the players for each club. I have posted the code in a [Github repository](https://github.com/pastenague/Wiki) in case anyone is interested.
 
-I used Wikipedia's API (through the [`WikipediR` R package](https://rdrr.io/cran/WikipediR/)) to extract the names of every player with a Wikipedia page that belonged to the category "X football players" or "X footballers" for a given club X. I did this extraction back in September, so all this data is only accurate as of September 2019 and does not account for any 2019-20 winter transfers. I compiled the list of players for every club, and then used the [`humaniformat` R package](https://rdrr.io/cran/humaniformat/) to "intelligently" split every player name into first and last names. Finally, I calculated the modes among the lists of first and last names of the players for each club. I have posted the code in a [Github repository](https://github.com/pastenague/Wiki) in case anyone is interested.
+The following tables encompass as many teams from as many countries/leagues as I could fit with a reasonable length in this post. The full list is available in the Google Sheets spreadsheet listed at the top of this post. I encourage anyone whose club is not listed in this post to peruse through that spreadsheet, as you will hopefully find it there. The entire list encompasses each of the countries below, as well as some others (including China, Japan, and some Scandinavian countries), for a total of 579 clubs across the top or top two divisions of 26 countries (England + Wales includes League One and League Two teams as well). Also, the full list for some countries is posted on subreddits pertaining to their leagues, and the separate discussions on those subreddits have been linked.
 
-The following tables encompass as many teams from as many countries/leagues as I could fit with a reasonable length. The full list is available in the Google Sheets spreadsheet listed at the top of this post. The full list of data encompasses each of the countries below, as well as some others including China, Japan, and some Scandinavian countries), for a total of 579 clubs across the top or top two divisions of 26 countries (England + Wales includes League One and League Two teams as well).
-
-I encourage anyone whose club is not listed in this post to peruse through that spreadsheet, as you will hopefully find it there. In addition, I have listed links to separate discussions on for some of the countries whose full list is not displayed in this post. Finally, I apologize if the names of any club are listed incorrectly - I had to do some processing to condense their names from the "official" name (which the Wikipedia pages are often named for) to their common names. Enjoy!
+I apologize if the names of any club are listed incorrectly - I had to do some processing to condense their names from the "official" name (which the Wikipedia pages are often named for) to their common names. Enjoy!
 
 **Note: "X" represents a case in which there were more than 3 names that were all tied for being the most common for their club.**
 
@@ -65,7 +63,7 @@ I encourage anyone whose club is not listed in this post to peruse through that 
 |[](#sprite1-p78) West Bromwich Albion    |George (27)           |Jones (11)                 |George Jones               |
 |[](#sprite1-p105) Wigan Athletic         |John (27)             |Roberts, Taylor (5)        |John Roberts-Taylor        |
 
-##### [Discussion on /r/Championship]()
+##### [Full List (including League 1 and League 2) & Discussion on /r/Championship]()
 
 # [](#sprite6-p64) Germany
 
